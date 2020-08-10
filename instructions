@@ -1,0 +1,21 @@
+Number of Classes 2 : Person and Rack Open
+### Installation ###
+Download this repo
+In darknet folder open Makefile
+Set values of GPU and CUDNN to 1 or 0, 1 for using GPU and 0 for using CPU
+Set OPENCV = 1 if you want to compile with opencv 
+
+
+## Test ##
+
+Run python3 test.py 
+If you want to test on other images change the file path in test.py line 5. 
+
+
+## Train ##
+
+Annotate dataset
+Prepare train.txt and test.txt with each file consisting path to every image of corresponding split. 
+Edit obj.data and obj.names according to your classes
+Modify model meffa.cfg for training instead of testing and set hyperparameters batch size, input size etc
+run python3 train.py

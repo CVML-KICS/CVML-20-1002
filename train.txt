@@ -1,0 +1,3572 @@
+/home/deep/coco_dataset/ANNOTATION//frame343.jpg
+/home/deep/coco_dataset/ANNOTATION//s (303).jpg
+/home/deep/coco_dataset/ANNOTATION//frame282.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (67).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (536).jpg
+/home/deep/coco_dataset/ANNOTATION//w (36).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1284.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1488.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1343.jpg
+/home/deep/coco_dataset/ANNOTATION//frame50.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1135.jpg
+/home/deep/coco_dataset/ANNOTATION//frame233.jpg
+/home/deep/coco_dataset/ANNOTATION//249.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1119.jpg
+/home/deep/coco_dataset/ANNOTATION//person (247).jpg
+/home/deep/coco_dataset/ANNOTATION//s (250).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (76).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1386.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (352).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(8).jpg
+/home/deep/coco_dataset/ANNOTATION//s (182).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(84).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1616.jpg
+/home/deep/coco_dataset/ANNOTATION//frame632.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (257).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (312).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(50).jpg
+/home/deep/coco_dataset/ANNOTATION//frame941.jpg
+/home/deep/coco_dataset/ANNOTATION//person (142).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (42).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (32).jpg
+/home/deep/coco_dataset/ANNOTATION//frame217.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1725.jpg
+/home/deep/coco_dataset/ANNOTATION//w (7).jpg
+/home/deep/coco_dataset/ANNOTATION//person (64).jpg
+/home/deep/coco_dataset/ANNOTATION//per (194).jpg
+/home/deep/coco_dataset/ANNOTATION//frame543.jpg
+/home/deep/coco_dataset/ANNOTATION//52.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (203).jpg
+/home/deep/coco_dataset/ANNOTATION//per (13).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (69).jpg
+/home/deep/coco_dataset/ANNOTATION//frame426.jpg
+/home/deep/coco_dataset/ANNOTATION//s (260).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (130).jpg
+/home/deep/coco_dataset/ANNOTATION//person (208).jpg
+/home/deep/coco_dataset/ANNOTATION//s (127).jpg
+/home/deep/coco_dataset/ANNOTATION//frame262.jpg
+/home/deep/coco_dataset/ANNOTATION//frame403.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (87).jpg
+/home/deep/coco_dataset/ANNOTATION//frame586.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1577.jpg
+/home/deep/coco_dataset/ANNOTATION//per (142).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (57).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (29).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (360).jpg
+/home/deep/coco_dataset/ANNOTATION//s (142).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (546).jpg
+/home/deep/coco_dataset/ANNOTATION//s (9).jpg
+/home/deep/coco_dataset/ANNOTATION//person (199).jpg
+/home/deep/coco_dataset/ANNOTATION//frame757.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (90).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(70).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1605.jpg
+/home/deep/coco_dataset/ANNOTATION//frame790.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1608.jpg
+/home/deep/coco_dataset/ANNOTATION//person (154).jpg
+/home/deep/coco_dataset/ANNOTATION//s (145).jpg
+/home/deep/coco_dataset/ANNOTATION//frame166.jpg
+/home/deep/coco_dataset/ANNOTATION//frame72.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (347).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (148).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (320).jpg
+/home/deep/coco_dataset/ANNOTATION//138.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (323).jpg
+/home/deep/coco_dataset/ANNOTATION//person (168).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1556.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(109).jpg
+/home/deep/coco_dataset/ANNOTATION//per (111).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1339.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1501.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (565).jpg
+/home/deep/coco_dataset/ANNOTATION//s (112).jpg
+/home/deep/coco_dataset/ANNOTATION//s (197).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (424).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1490.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1180.jpg
+/home/deep/coco_dataset/ANNOTATION//a (49).jpg
+/home/deep/coco_dataset/ANNOTATION//frame845.jpg
+/home/deep/coco_dataset/ANNOTATION//frame529.jpg
+/home/deep/coco_dataset/ANNOTATION//person (4).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (25).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (610).jpg
+/home/deep/coco_dataset/ANNOTATION//frame315.jpg
+/home/deep/coco_dataset/ANNOTATION//s (221).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1306.jpg
+/home/deep/coco_dataset/ANNOTATION//per (15).jpg
+/home/deep/coco_dataset/ANNOTATION//s (168).jpg
+/home/deep/coco_dataset/ANNOTATION//in (46).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (73).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (28).jpg
+/home/deep/coco_dataset/ANNOTATION//frame524.jpg
+/home/deep/coco_dataset/ANNOTATION//per (128).jpg
+/home/deep/coco_dataset/ANNOTATION//frame591.jpg
+/home/deep/coco_dataset/ANNOTATION//frame223.jpg
+/home/deep/coco_dataset/ANNOTATION//frame45.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1046.jpg
+/home/deep/coco_dataset/ANNOTATION//s (217).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (361).jpg
+/home/deep/coco_dataset/ANNOTATION//frame691.jpg
+/home/deep/coco_dataset/ANNOTATION//s (265).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (21).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (206).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1576.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (447).jpg
+/home/deep/coco_dataset/ANNOTATION//person (35).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (628).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(26).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (2).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1707.jpg
+/home/deep/coco_dataset/ANNOTATION//per (20).jpg
+/home/deep/coco_dataset/ANNOTATION//s (130).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (101).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (170).jpg
+/home/deep/coco_dataset/ANNOTATION//s (97).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(159).jpg
+/home/deep/coco_dataset/ANNOTATION//person (169).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1294.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (48).jpg
+/home/deep/coco_dataset/ANNOTATION//s (253).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1517.jpg
+/home/deep/coco_dataset/ANNOTATION//s (279).jpg
+/home/deep/coco_dataset/ANNOTATION//per (160).jpg
+/home/deep/coco_dataset/ANNOTATION//s (88).jpg
+/home/deep/coco_dataset/ANNOTATION//person (143).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1562.jpg
+/home/deep/coco_dataset/ANNOTATION//per (77).jpg
+/home/deep/coco_dataset/ANNOTATION//frame397.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (6).jpg
+/home/deep/coco_dataset/ANNOTATION//s (258).jpg
+/home/deep/coco_dataset/ANNOTATION//frame597.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (585).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1599.jpg
+/home/deep/coco_dataset/ANNOTATION//frame964.jpg
+/home/deep/coco_dataset/ANNOTATION//frame392.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (248).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (20).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (446).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (580).jpg
+/home/deep/coco_dataset/ANNOTATION//per (76).jpg
+/home/deep/coco_dataset/ANNOTATION//117.jpg
+/home/deep/coco_dataset/ANNOTATION//s (233).jpg
+/home/deep/coco_dataset/ANNOTATION//person (67).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1336.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (268).jpg
+/home/deep/coco_dataset/ANNOTATION//70.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1319.jpg
+/home/deep/coco_dataset/ANNOTATION//frame318.jpg
+/home/deep/coco_dataset/ANNOTATION//frame779.jpg
+/home/deep/coco_dataset/ANNOTATION//frame582.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1054.jpg
+/home/deep/coco_dataset/ANNOTATION//per (179).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(60).jpg
+/home/deep/coco_dataset/ANNOTATION//frame640.jpg
+/home/deep/coco_dataset/ANNOTATION//frame85.jpg
+/home/deep/coco_dataset/ANNOTATION//per (68).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (117).jpg
+/home/deep/coco_dataset/ANNOTATION//person (224).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1080.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1536.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(145).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1106.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (37).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (91).jpg
+/home/deep/coco_dataset/ANNOTATION//person (75).jpg
+/home/deep/coco_dataset/ANNOTATION//in (85).jpg
+/home/deep/coco_dataset/ANNOTATION//frame196.jpg
+/home/deep/coco_dataset/ANNOTATION//frame501.jpg
+/home/deep/coco_dataset/ANNOTATION//frame215.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1270.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1298.jpg
+/home/deep/coco_dataset/ANNOTATION//person (48).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1083.jpg
+/home/deep/coco_dataset/ANNOTATION//frame821.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (47).jpg
+/home/deep/coco_dataset/ANNOTATION//s (60).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(38).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (99).jpg
+/home/deep/coco_dataset/ANNOTATION//per (51).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1302.jpg
+/home/deep/coco_dataset/ANNOTATION//s (153).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(53).jpg
+/home/deep/coco_dataset/ANNOTATION//frame114.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (173).jpg
+/home/deep/coco_dataset/ANNOTATION//s (284).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1279.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1495.jpg
+/home/deep/coco_dataset/ANNOTATION//person (2).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1685.jpg
+/home/deep/coco_dataset/ANNOTATION//per (95).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (1).jpg
+/home/deep/coco_dataset/ANNOTATION//person (71).jpg
+/home/deep/coco_dataset/ANNOTATION//frame991.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1022.jpg
+/home/deep/coco_dataset/ANNOTATION//frame928.jpg
+/home/deep/coco_dataset/ANNOTATION//per (157).jpg
+/home/deep/coco_dataset/ANNOTATION//frame380.jpg
+/home/deep/coco_dataset/ANNOTATION//frame699.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1460.jpg
+/home/deep/coco_dataset/ANNOTATION//per (35).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (659).jpg
+/home/deep/coco_dataset/ANNOTATION//frame134.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (214).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (263).jpg
+/home/deep/coco_dataset/ANNOTATION//person (51).jpg
+/home/deep/coco_dataset/ANNOTATION//s (219).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (71).jpg
+/home/deep/coco_dataset/ANNOTATION//in (3).jpg
+/home/deep/coco_dataset/ANNOTATION//frame207.jpg
+/home/deep/coco_dataset/ANNOTATION//per (191).jpg
+/home/deep/coco_dataset/ANNOTATION//frame107.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1523.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1195.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (79).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (418).jpg
+/home/deep/coco_dataset/ANNOTATION//frame729.jpg
+/home/deep/coco_dataset/ANNOTATION//s (124).jpg
+/home/deep/coco_dataset/ANNOTATION//frame388.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (68).jpg
+/home/deep/coco_dataset/ANNOTATION//frame366.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (243).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (15).jpg
+/home/deep/coco_dataset/ANNOTATION//197.jpg
+/home/deep/coco_dataset/ANNOTATION//frame386.jpg
+/home/deep/coco_dataset/ANNOTATION//person (99).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1091.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (164).jpg
+/home/deep/coco_dataset/ANNOTATION//frame977.jpg
+/home/deep/coco_dataset/ANNOTATION//per (98).jpg
+/home/deep/coco_dataset/ANNOTATION//frame381.jpg
+/home/deep/coco_dataset/ANNOTATION//frame109.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (12).jpg
+/home/deep/coco_dataset/ANNOTATION//frame327.jpg
+/home/deep/coco_dataset/ANNOTATION//frame607.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1560.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (22).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (33).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (343).jpg
+/home/deep/coco_dataset/ANNOTATION//s (70).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1574.jpg
+/home/deep/coco_dataset/ANNOTATION//s (122).jpg
+/home/deep/coco_dataset/ANNOTATION//139.jpg
+/home/deep/coco_dataset/ANNOTATION//a (35).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(127).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1068.jpg
+/home/deep/coco_dataset/ANNOTATION//frame390.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1506.jpg
+/home/deep/coco_dataset/ANNOTATION//frame169.jpg
+/home/deep/coco_dataset/ANNOTATION//115.jpg
+/home/deep/coco_dataset/ANNOTATION//frame763.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (464).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1231.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (216).jpg
+/home/deep/coco_dataset/ANNOTATION//s (64).jpg
+/home/deep/coco_dataset/ANNOTATION//frame886.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(57).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (568).jpg
+/home/deep/coco_dataset/ANNOTATION//frame751.jpg
+/home/deep/coco_dataset/ANNOTATION//frame205.jpg
+/home/deep/coco_dataset/ANNOTATION//frame687.jpg
+/home/deep/coco_dataset/ANNOTATION//frame659.jpg
+/home/deep/coco_dataset/ANNOTATION//person (171).jpg
+/home/deep/coco_dataset/ANNOTATION//per (3).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (394).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1318.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1222.jpg
+/home/deep/coco_dataset/ANNOTATION//person (56).jpg
+/home/deep/coco_dataset/ANNOTATION//person (239).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1058.jpg
+/home/deep/coco_dataset/ANNOTATION//per (6).jpg
+/home/deep/coco_dataset/ANNOTATION//frame546.jpg
+/home/deep/coco_dataset/ANNOTATION//frame581.jpg
+/home/deep/coco_dataset/ANNOTATION//s (234).jpg
+/home/deep/coco_dataset/ANNOTATION//frame174.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (351).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (417).jpg
+/home/deep/coco_dataset/ANNOTATION//frame878.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (43).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1258.jpg
+/home/deep/coco_dataset/ANNOTATION//frame835.jpg
+/home/deep/coco_dataset/ANNOTATION//person (108).jpg
+/home/deep/coco_dataset/ANNOTATION//person (116).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1190.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (401).jpg
+/home/deep/coco_dataset/ANNOTATION//frame802.jpg
+/home/deep/coco_dataset/ANNOTATION//frame498.jpg
+/home/deep/coco_dataset/ANNOTATION//frame736.jpg
+/home/deep/coco_dataset/ANNOTATION//person (21).jpg
+/home/deep/coco_dataset/ANNOTATION//frame220.jpg
+/home/deep/coco_dataset/ANNOTATION//frame473.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1245.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (16).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (115).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (566).jpg
+/home/deep/coco_dataset/ANNOTATION//person (188).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(168).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (422).jpg
+/home/deep/coco_dataset/ANNOTATION//s (235).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (256).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (231).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (324).jpg
+/home/deep/coco_dataset/ANNOTATION//person (7).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (10).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (76).jpg
+/home/deep/coco_dataset/ANNOTATION//frame617.jpg
+/home/deep/coco_dataset/ANNOTATION//person (187).jpg
+/home/deep/coco_dataset/ANNOTATION//per (5).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (331).jpg
+/home/deep/coco_dataset/ANNOTATION//person (62).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (18).jpg
+/home/deep/coco_dataset/ANNOTATION//frame240.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1100.jpg
+/home/deep/coco_dataset/ANNOTATION//frame823.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1094.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1540.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1254.jpg
+/home/deep/coco_dataset/ANNOTATION//per (164).jpg
+/home/deep/coco_dataset/ANNOTATION//frame38.jpg
+/home/deep/coco_dataset/ANNOTATION//frame681.jpg
+/home/deep/coco_dataset/ANNOTATION//person (156).jpg
+/home/deep/coco_dataset/ANNOTATION//s (120).jpg
+/home/deep/coco_dataset/ANNOTATION//frame623.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1178.jpg
+/home/deep/coco_dataset/ANNOTATION//person (37).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(156).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (107).jpg
+/home/deep/coco_dataset/ANNOTATION//frame454.jpg
+/home/deep/coco_dataset/ANNOTATION//s (296).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (184).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1227.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (58).jpg
+/home/deep/coco_dataset/ANNOTATION//person (128).jpg
+/home/deep/coco_dataset/ANNOTATION//per (2).jpg
+/home/deep/coco_dataset/ANNOTATION//frame152.jpg
+/home/deep/coco_dataset/ANNOTATION//frame618.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1150.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(114).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1030.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (531).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (578).jpg
+/home/deep/coco_dataset/ANNOTATION//frame172.jpg
+/home/deep/coco_dataset/ANNOTATION//frame599.jpg
+/home/deep/coco_dataset/ANNOTATION//frame26.jpg
+/home/deep/coco_dataset/ANNOTATION//frame229.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1555.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (381).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (105).jpg
+/home/deep/coco_dataset/ANNOTATION//frame175.jpg
+/home/deep/coco_dataset/ANNOTATION//per (113).jpg
+/home/deep/coco_dataset/ANNOTATION//frame811.jpg
+/home/deep/coco_dataset/ANNOTATION//frame116.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (375).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(137).jpg
+/home/deep/coco_dataset/ANNOTATION//s (181).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (81).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1587.jpg
+/home/deep/coco_dataset/ANNOTATION//w (6).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (92).jpg
+/home/deep/coco_dataset/ANNOTATION//s (218).jpg
+/home/deep/coco_dataset/ANNOTATION//frame60.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1192.jpg
+/home/deep/coco_dataset/ANNOTATION//77.jpg
+/home/deep/coco_dataset/ANNOTATION//frame889.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (245).jpg
+/home/deep/coco_dataset/ANNOTATION//per (189).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (55).jpg
+/home/deep/coco_dataset/ANNOTATION//frame924.jpg
+/home/deep/coco_dataset/ANNOTATION//frame873.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (230).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1423.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (73).jpg
+/home/deep/coco_dataset/ANNOTATION//frame612.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (27).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1113.jpg
+/home/deep/coco_dataset/ANNOTATION//frame732.jpg
+/home/deep/coco_dataset/ANNOTATION//frame923.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (77).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(94).jpg
+/home/deep/coco_dataset/ANNOTATION//per (197).jpg
+/home/deep/coco_dataset/ANNOTATION//a (19).jpg
+/home/deep/coco_dataset/ANNOTATION//person (32).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1158.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(32).jpg
+/home/deep/coco_dataset/ANNOTATION//w (37).jpg
+/home/deep/coco_dataset/ANNOTATION//s (5).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1660.jpg
+/home/deep/coco_dataset/ANNOTATION//frame444.jpg
+/home/deep/coco_dataset/ANNOTATION//45.jpg
+/home/deep/coco_dataset/ANNOTATION//frame979.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (49).jpg
+/home/deep/coco_dataset/ANNOTATION//s (158).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (615).jpg
+/home/deep/coco_dataset/ANNOTATION//s (283).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (388).jpg
+/home/deep/coco_dataset/ANNOTATION//frame5.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(164).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1581.jpg
+/home/deep/coco_dataset/ANNOTATION//75.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1191.jpg
+/home/deep/coco_dataset/ANNOTATION//237.jpg
+/home/deep/coco_dataset/ANNOTATION//per (193).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (624).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (98).jpg
+/home/deep/coco_dataset/ANNOTATION//s (248).jpg
+/home/deep/coco_dataset/ANNOTATION//frame738.jpg
+/home/deep/coco_dataset/ANNOTATION//121.jpg
+/home/deep/coco_dataset/ANNOTATION//per (42).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1546.jpg
+/home/deep/coco_dataset/ANNOTATION//s (310).jpg
+/home/deep/coco_dataset/ANNOTATION//a (46).jpg
+/home/deep/coco_dataset/ANNOTATION//person (44).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (13).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(154).jpg
+/home/deep/coco_dataset/ANNOTATION//frame195.jpg
+/home/deep/coco_dataset/ANNOTATION//s (113).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1480.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (43).jpg
+/home/deep/coco_dataset/ANNOTATION//person (11).jpg
+/home/deep/coco_dataset/ANNOTATION//frame513.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1327.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1170.jpg
+/home/deep/coco_dataset/ANNOTATION//frame284.jpg
+/home/deep/coco_dataset/ANNOTATION//s (254).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (49).jpg
+/home/deep/coco_dataset/ANNOTATION//w (21).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (348).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (415).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (289).jpg
+/home/deep/coco_dataset/ANNOTATION//frame824.jpg
+/home/deep/coco_dataset/ANNOTATION//person (45).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1699.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (492).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (86).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1526.jpg
+/home/deep/coco_dataset/ANNOTATION//frame730.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (39).jpg
+/home/deep/coco_dataset/ANNOTATION//person (147).jpg
+/home/deep/coco_dataset/ANNOTATION//frame499.jpg
+/home/deep/coco_dataset/ANNOTATION//s (204).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1147.jpg
+/home/deep/coco_dataset/ANNOTATION//frame155.jpg
+/home/deep/coco_dataset/ANNOTATION//a (59).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (436).jpg
+/home/deep/coco_dataset/ANNOTATION//person (145).jpg
+/home/deep/coco_dataset/ANNOTATION//frame485.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (674).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (495).jpg
+/home/deep/coco_dataset/ANNOTATION//frame919.jpg
+/home/deep/coco_dataset/ANNOTATION//frame121.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(46).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (597).jpg
+/home/deep/coco_dataset/ANNOTATION//person (243).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (668).jpg
+/home/deep/coco_dataset/ANNOTATION//s (82).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1393.jpg
+/home/deep/coco_dataset/ANNOTATION//frame198.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (346).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (62).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1686.jpg
+/home/deep/coco_dataset/ANNOTATION//frame248.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(51).jpg
+/home/deep/coco_dataset/ANNOTATION//frame453.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (151).jpg
+/home/deep/coco_dataset/ANNOTATION//frame311.jpg
+/home/deep/coco_dataset/ANNOTATION//frame723.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (591).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1345.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (161).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1404.jpg
+/home/deep/coco_dataset/ANNOTATION//frame194.jpg
+/home/deep/coco_dataset/ANNOTATION//frame743.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(48).jpg
+/home/deep/coco_dataset/ANNOTATION//s (167).jpg
+/home/deep/coco_dataset/ANNOTATION//frame76.jpg
+/home/deep/coco_dataset/ANNOTATION//per (97).jpg
+/home/deep/coco_dataset/ANNOTATION//frame484.jpg
+/home/deep/coco_dataset/ANNOTATION//s (189).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (15).jpg
+/home/deep/coco_dataset/ANNOTATION//per (61).jpg
+/home/deep/coco_dataset/ANNOTATION//frame314.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (493).jpg
+/home/deep/coco_dataset/ANNOTATION//frame836.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1267.jpg
+/home/deep/coco_dataset/ANNOTATION//frame59.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1414.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (63).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (551).jpg
+/home/deep/coco_dataset/ANNOTATION//person (131).jpg
+/home/deep/coco_dataset/ANNOTATION//frame185.jpg
+/home/deep/coco_dataset/ANNOTATION//frame333.jpg
+/home/deep/coco_dataset/ANNOTATION//frame795.jpg
+/home/deep/coco_dataset/ANNOTATION//person (65).jpg
+/home/deep/coco_dataset/ANNOTATION//255.jpg
+/home/deep/coco_dataset/ANNOTATION//frame910.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (201).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (451).jpg
+/home/deep/coco_dataset/ANNOTATION//208.jpg
+/home/deep/coco_dataset/ANNOTATION//frame734.jpg
+/home/deep/coco_dataset/ANNOTATION//frame700.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (483).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (270).jpg
+/home/deep/coco_dataset/ANNOTATION//frame899.jpg
+/home/deep/coco_dataset/ANNOTATION//w (32).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1052.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1357.jpg
+/home/deep/coco_dataset/ANNOTATION//person (15).jpg
+/home/deep/coco_dataset/ANNOTATION//s (307).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (61).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1116.jpg
+/home/deep/coco_dataset/ANNOTATION//person (40).jpg
+/home/deep/coco_dataset/ANNOTATION//per (121).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (237).jpg
+/home/deep/coco_dataset/ANNOTATION//frame418.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (227).jpg
+/home/deep/coco_dataset/ANNOTATION//w (44).jpg
+/home/deep/coco_dataset/ANNOTATION//a (14).jpg
+/home/deep/coco_dataset/ANNOTATION//person (160).jpg
+/home/deep/coco_dataset/ANNOTATION//250.jpg
+/home/deep/coco_dataset/ANNOTATION//s (45).jpg
+/home/deep/coco_dataset/ANNOTATION//frame673.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (36).jpg
+/home/deep/coco_dataset/ANNOTATION//frame258.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1638.jpg
+/home/deep/coco_dataset/ANNOTATION//frame503.jpg
+/home/deep/coco_dataset/ANNOTATION//frame18.jpg
+/home/deep/coco_dataset/ANNOTATION//frame263.jpg
+/home/deep/coco_dataset/ANNOTATION//frame840.jpg
+/home/deep/coco_dataset/ANNOTATION//per (173).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1645.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (650).jpg
+/home/deep/coco_dataset/ANNOTATION//person (120).jpg
+/home/deep/coco_dataset/ANNOTATION//frame701.jpg
+/home/deep/coco_dataset/ANNOTATION//in (19).jpg
+/home/deep/coco_dataset/ANNOTATION//person (162).jpg
+/home/deep/coco_dataset/ANNOTATION//144.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (38).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1061.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(106).jpg
+/home/deep/coco_dataset/ANNOTATION//person (193).jpg
+/home/deep/coco_dataset/ANNOTATION//per (60).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1004.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1308.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1136.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(20).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1732.jpg
+/home/deep/coco_dataset/ANNOTATION//s (121).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (235).jpg
+/home/deep/coco_dataset/ANNOTATION//per (171).jpg
+/home/deep/coco_dataset/ANNOTATION//per (187).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (14).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(165).jpg
+/home/deep/coco_dataset/ANNOTATION//frame334.jpg
+/home/deep/coco_dataset/ANNOTATION//in (16).jpg
+/home/deep/coco_dataset/ANNOTATION//in (52).jpg
+/home/deep/coco_dataset/ANNOTATION//frame56.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(149).jpg
+/home/deep/coco_dataset/ANNOTATION//per (181).jpg
+/home/deep/coco_dataset/ANNOTATION//112.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (258).jpg
+/home/deep/coco_dataset/ANNOTATION//per (183).jpg
+/home/deep/coco_dataset/ANNOTATION//frame281.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1249.jpg
+/home/deep/coco_dataset/ANNOTATION//frame48.jpg
+/home/deep/coco_dataset/ANNOTATION//frame781.jpg
+/home/deep/coco_dataset/ANNOTATION//s (147).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1424.jpg
+/home/deep/coco_dataset/ANNOTATION//per (19).jpg
+/home/deep/coco_dataset/ANNOTATION//frame854.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1451.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1173.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1164.jpg
+/home/deep/coco_dataset/ANNOTATION//49.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (614).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (596).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1615.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1702.jpg
+/home/deep/coco_dataset/ANNOTATION//person (26).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1458.jpg
+/home/deep/coco_dataset/ANNOTATION//108.jpg
+/home/deep/coco_dataset/ANNOTATION//frame133.jpg
+/home/deep/coco_dataset/ANNOTATION//per (71).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (452).jpg
+/home/deep/coco_dataset/ANNOTATION//s (31).jpg
+/home/deep/coco_dataset/ANNOTATION//person (161).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1149.jpg
+/home/deep/coco_dataset/ANNOTATION//s (51).jpg
+/home/deep/coco_dataset/ANNOTATION//frame225.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1671.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (552).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1713.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1465.jpg
+/home/deep/coco_dataset/ANNOTATION//frame71.jpg
+/home/deep/coco_dataset/ANNOTATION//frame750.jpg
+/home/deep/coco_dataset/ANNOTATION//frame234.jpg
+/home/deep/coco_dataset/ANNOTATION//per (27).jpg
+/home/deep/coco_dataset/ANNOTATION//per (144).jpg
+/home/deep/coco_dataset/ANNOTATION//frame672.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (17).jpg
+/home/deep/coco_dataset/ANNOTATION//frame123.jpg
+/home/deep/coco_dataset/ANNOTATION//per (153).jpg
+/home/deep/coco_dataset/ANNOTATION//166.jpg
+/home/deep/coco_dataset/ANNOTATION//frame675.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (52).jpg
+/home/deep/coco_dataset/ANNOTATION//frame798.jpg
+/home/deep/coco_dataset/ANNOTATION//frame953.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (85).jpg
+/home/deep/coco_dataset/ANNOTATION//frame852.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (577).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (456).jpg
+/home/deep/coco_dataset/ANNOTATION//in (71).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (301).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (669).jpg
+/home/deep/coco_dataset/ANNOTATION//person (126).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (325).jpg
+/home/deep/coco_dataset/ANNOTATION//a (55).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(22).jpg
+/home/deep/coco_dataset/ANNOTATION//frame394.jpg
+/home/deep/coco_dataset/ANNOTATION//frame321.jpg
+/home/deep/coco_dataset/ANNOTATION//s (230).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (83).jpg
+/home/deep/coco_dataset/ANNOTATION//frame219.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1493.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (8).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1383.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1446.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1441.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (57).jpg
+/home/deep/coco_dataset/ANNOTATION//frame661.jpg
+/home/deep/coco_dataset/ANNOTATION//s (191).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1689.jpg
+/home/deep/coco_dataset/ANNOTATION//person (102).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(74).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (520).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(112).jpg
+/home/deep/coco_dataset/ANNOTATION//frame827.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (471).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1545.jpg
+/home/deep/coco_dataset/ANNOTATION//s (223).jpg
+/home/deep/coco_dataset/ANNOTATION//101.jpg
+/home/deep/coco_dataset/ANNOTATION//person (185).jpg
+/home/deep/coco_dataset/ANNOTATION//frame726.jpg
+/home/deep/coco_dataset/ANNOTATION//48.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (393).jpg
+/home/deep/coco_dataset/ANNOTATION//person (163).jpg
+/home/deep/coco_dataset/ANNOTATION//frame837.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (533).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (72).jpg
+/home/deep/coco_dataset/ANNOTATION//frame624.jpg
+/home/deep/coco_dataset/ANNOTATION//frame317.jpg
+/home/deep/coco_dataset/ANNOTATION//frame619.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (404).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1236.jpg
+/home/deep/coco_dataset/ANNOTATION//147.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (108).jpg
+/home/deep/coco_dataset/ANNOTATION//per (34).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1718.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1371.jpg
+/home/deep/coco_dataset/ANNOTATION//frame856.jpg
+/home/deep/coco_dataset/ANNOTATION//person (144).jpg
+/home/deep/coco_dataset/ANNOTATION//frame79.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (103).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (385).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (225).jpg
+/home/deep/coco_dataset/ANNOTATION//a (40).jpg
+/home/deep/coco_dataset/ANNOTATION//frame186.jpg
+/home/deep/coco_dataset/ANNOTATION//frame859.jpg
+/home/deep/coco_dataset/ANNOTATION//frame489.jpg
+/home/deep/coco_dataset/ANNOTATION//160.jpg
+/home/deep/coco_dataset/ANNOTATION//frame752.jpg
+/home/deep/coco_dataset/ANNOTATION//frame769.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1394.jpg
+/home/deep/coco_dataset/ANNOTATION//w (14).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1622.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (672).jpg
+/home/deep/coco_dataset/ANNOTATION//frame646.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1438.jpg
+/home/deep/coco_dataset/ANNOTATION//frame988.jpg
+/home/deep/coco_dataset/ANNOTATION//177.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (309).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(80).jpg
+/home/deep/coco_dataset/ANNOTATION//person (176).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (465).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1187.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1241.jpg
+/home/deep/coco_dataset/ANNOTATION//person (133).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (63).jpg
+/home/deep/coco_dataset/ANNOTATION//frame613.jpg
+/home/deep/coco_dataset/ANNOTATION//frame306.jpg
+/home/deep/coco_dataset/ANNOTATION//person (85).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (51).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (84).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (337).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1276.jpg
+/home/deep/coco_dataset/ANNOTATION//s (59).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1552.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1354.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (327).jpg
+/home/deep/coco_dataset/ANNOTATION//frame850.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1640.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1461.jpg
+/home/deep/coco_dataset/ANNOTATION//frame475.jpg
+/home/deep/coco_dataset/ANNOTATION//frame472.jpg
+/home/deep/coco_dataset/ANNOTATION//frame829.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (329).jpg
+/home/deep/coco_dataset/ANNOTATION//frame995.jpg
+/home/deep/coco_dataset/ANNOTATION//person (61).jpg
+/home/deep/coco_dataset/ANNOTATION//frame456.jpg
+/home/deep/coco_dataset/ANNOTATION//person (231).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (278).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1499.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1118.jpg
+/home/deep/coco_dataset/ANNOTATION//frame890.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1496.jpg
+/home/deep/coco_dataset/ANNOTATION//frame102.jpg
+/home/deep/coco_dataset/ANNOTATION//in (9).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (345).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1509.jpg
+/home/deep/coco_dataset/ANNOTATION//s (30).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1188.jpg
+/home/deep/coco_dataset/ANNOTATION//s (306).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1586.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1216.jpg
+/home/deep/coco_dataset/ANNOTATION//per (62).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1024.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(124).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1623.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (564).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (50).jpg
+/home/deep/coco_dataset/ANNOTATION//125.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (40).jpg
+/home/deep/coco_dataset/ANNOTATION//frame959.jpg
+/home/deep/coco_dataset/ANNOTATION//frame206.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (96).jpg
+/home/deep/coco_dataset/ANNOTATION//person (86).jpg
+/home/deep/coco_dataset/ANNOTATION//frame53.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1633.jpg
+/home/deep/coco_dataset/ANNOTATION//person (217).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (64).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1153.jpg
+/home/deep/coco_dataset/ANNOTATION//s (19).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(36).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (13).jpg
+/home/deep/coco_dataset/ANNOTATION//in (51).jpg
+/home/deep/coco_dataset/ANNOTATION//frame190.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (524).jpg
+/home/deep/coco_dataset/ANNOTATION//person (233).jpg
+/home/deep/coco_dataset/ANNOTATION//frame147.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (253).jpg
+/home/deep/coco_dataset/ANNOTATION//frame316.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(102).jpg
+/home/deep/coco_dataset/ANNOTATION//s (14).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (484).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (586).jpg
+/home/deep/coco_dataset/ANNOTATION//s (98).jpg
+/home/deep/coco_dataset/ANNOTATION//per (10).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (8).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (226).jpg
+/home/deep/coco_dataset/ANNOTATION//frame354.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1712.jpg
+/home/deep/coco_dataset/ANNOTATION//frame986.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (662).jpg
+/home/deep/coco_dataset/ANNOTATION//in (21).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (58).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1229.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (639).jpg
+/home/deep/coco_dataset/ANNOTATION//per (16).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (10).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (397).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (27).jpg
+/home/deep/coco_dataset/ANNOTATION//frame547.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1183.jpg
+/home/deep/coco_dataset/ANNOTATION//156.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1435.jpg
+/home/deep/coco_dataset/ANNOTATION//person (166).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1095.jpg
+/home/deep/coco_dataset/ANNOTATION//frame130.jpg
+/home/deep/coco_dataset/ANNOTATION//per (82).jpg
+/home/deep/coco_dataset/ANNOTATION//frame921.jpg
+/home/deep/coco_dataset/ANNOTATION//person (141).jpg
+/home/deep/coco_dataset/ANNOTATION//frame580.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(134).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1129.jpg
+/home/deep/coco_dataset/ANNOTATION//per (198).jpg
+/home/deep/coco_dataset/ANNOTATION//frame39.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1677.jpg
+/home/deep/coco_dataset/ANNOTATION//person (47).jpg
+/home/deep/coco_dataset/ANNOTATION//per (47).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1332.jpg
+/home/deep/coco_dataset/ANNOTATION//frame846.jpg
+/home/deep/coco_dataset/ANNOTATION//s (3).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (476).jpg
+/home/deep/coco_dataset/ANNOTATION//262.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (2).jpg
+/home/deep/coco_dataset/ANNOTATION//person (18).jpg
+/home/deep/coco_dataset/ANNOTATION//s (271).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1471.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1205.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1366.jpg
+/home/deep/coco_dataset/ANNOTATION//person (221).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1079.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (386).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1015.jpg
+/home/deep/coco_dataset/ANNOTATION//frame422.jpg
+/home/deep/coco_dataset/ANNOTATION//frame224.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (428).jpg
+/home/deep/coco_dataset/ANNOTATION//s (196).jpg
+/home/deep/coco_dataset/ANNOTATION//in (30).jpg
+/home/deep/coco_dataset/ANNOTATION//frame720.jpg
+/home/deep/coco_dataset/ANNOTATION//frame971.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (616).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (56).jpg
+/home/deep/coco_dataset/ANNOTATION//frame999.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(25).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1437.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1038.jpg
+/home/deep/coco_dataset/ANNOTATION//frame851.jpg
+/home/deep/coco_dataset/ANNOTATION//person (125).jpg
+/home/deep/coco_dataset/ANNOTATION//s (304).jpg
+/home/deep/coco_dataset/ANNOTATION//frame937.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (175).jpg
+/home/deep/coco_dataset/ANNOTATION//frame575.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (613).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(138).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1481.jpg
+/home/deep/coco_dataset/ANNOTATION//frame679.jpg
+/home/deep/coco_dataset/ANNOTATION//frame961.jpg
+/home/deep/coco_dataset/ANNOTATION//118.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (467).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (358).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (6).jpg
+/home/deep/coco_dataset/ANNOTATION//s (308).jpg
+/home/deep/coco_dataset/ANNOTATION//person (34).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (651).jpg
+/home/deep/coco_dataset/ANNOTATION//frame807.jpg
+/home/deep/coco_dataset/ANNOTATION//106.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1196.jpg
+/home/deep/coco_dataset/ANNOTATION//frame812.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1625.jpg
+/home/deep/coco_dataset/ANNOTATION//a (34).jpg
+/home/deep/coco_dataset/ANNOTATION//frame540.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (219).jpg
+/home/deep/coco_dataset/ANNOTATION//frame324.jpg
+/home/deep/coco_dataset/ANNOTATION//frame545.jpg
+/home/deep/coco_dataset/ANNOTATION//frame95.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1372.jpg
+/home/deep/coco_dataset/ANNOTATION//195.jpg
+/home/deep/coco_dataset/ANNOTATION//198.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (53).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (326).jpg
+/home/deep/coco_dataset/ANNOTATION//frame228.jpg
+/home/deep/coco_dataset/ANNOTATION//a (4).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (126).jpg
+/home/deep/coco_dataset/ANNOTATION//frame106.jpg
+/home/deep/coco_dataset/ANNOTATION//frame122.jpg
+/home/deep/coco_dataset/ANNOTATION//frame577.jpg
+/home/deep/coco_dataset/ANNOTATION//frame985.jpg
+/home/deep/coco_dataset/ANNOTATION//frame180.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (16).jpg
+/home/deep/coco_dataset/ANNOTATION//in (88).jpg
+/home/deep/coco_dataset/ANNOTATION//frame515.jpg
+/home/deep/coco_dataset/ANNOTATION//frame631.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1089.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (530).jpg
+/home/deep/coco_dataset/ANNOTATION//s (315).jpg
+/home/deep/coco_dataset/ANNOTATION//per (64).jpg
+/home/deep/coco_dataset/ANNOTATION//frame643.jpg
+/home/deep/coco_dataset/ANNOTATION//153.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1051.jpg
+/home/deep/coco_dataset/ANNOTATION//frame678.jpg
+/home/deep/coco_dataset/ANNOTATION//frame541.jpg
+/home/deep/coco_dataset/ANNOTATION//s (84).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1531.jpg
+/home/deep/coco_dataset/ANNOTATION//per (117).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (34).jpg
+/home/deep/coco_dataset/ANNOTATION//frame319.jpg
+/home/deep/coco_dataset/ANNOTATION//s (46).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1636.jpg
+/home/deep/coco_dataset/ANNOTATION//frame705.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1271.jpg
+/home/deep/coco_dataset/ANNOTATION//frame913.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (59).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (499).jpg
+/home/deep/coco_dataset/ANNOTATION//frame285.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1534.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1107.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1466.jpg
+/home/deep/coco_dataset/ANNOTATION//s (243).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1709.jpg
+/home/deep/coco_dataset/ANNOTATION//frame292.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (338).jpg
+/home/deep/coco_dataset/ANNOTATION//w (40).jpg
+/home/deep/coco_dataset/ANNOTATION//in (35).jpg
+/home/deep/coco_dataset/ANNOTATION//frame22.jpg
+/home/deep/coco_dataset/ANNOTATION//s (13).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(61).jpg
+/home/deep/coco_dataset/ANNOTATION//frame908.jpg
+/home/deep/coco_dataset/ANNOTATION//frame138.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(43).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1513.jpg
+/home/deep/coco_dataset/ANNOTATION//per (188).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(29).jpg
+/home/deep/coco_dataset/ANNOTATION//a (9).jpg
+/home/deep/coco_dataset/ANNOTATION//per (155).jpg
+/home/deep/coco_dataset/ANNOTATION//s (240).jpg
+/home/deep/coco_dataset/ANNOTATION//s (40).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(115).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(30).jpg
+/home/deep/coco_dataset/ANNOTATION//person (164).jpg
+/home/deep/coco_dataset/ANNOTATION//frame958.jpg
+/home/deep/coco_dataset/ANNOTATION//s (277).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1292.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1365.jpg
+/home/deep/coco_dataset/ANNOTATION//frame24.jpg
+/home/deep/coco_dataset/ANNOTATION//frame508.jpg
+/home/deep/coco_dataset/ANNOTATION//frame61.jpg
+/home/deep/coco_dataset/ANNOTATION//per (134).jpg
+/home/deep/coco_dataset/ANNOTATION//s (144).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(97).jpg
+/home/deep/coco_dataset/ANNOTATION//per (129).jpg
+/home/deep/coco_dataset/ANNOTATION//158.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1431.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1125.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (195).jpg
+/home/deep/coco_dataset/ANNOTATION//a (11).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (369).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (89).jpg
+/home/deep/coco_dataset/ANNOTATION//228.jpg
+/home/deep/coco_dataset/ANNOTATION//person (235).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1330.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1027.jpg
+/home/deep/coco_dataset/ANNOTATION//frame482.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (222).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1530.jpg
+/home/deep/coco_dataset/ANNOTATION//s (229).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (46).jpg
+/home/deep/coco_dataset/ANNOTATION//per (180).jpg
+/home/deep/coco_dataset/ANNOTATION//per (158).jpg
+/home/deep/coco_dataset/ANNOTATION//in (87).jpg
+/home/deep/coco_dataset/ANNOTATION//frame167.jpg
+/home/deep/coco_dataset/ANNOTATION//frame416.jpg
+/home/deep/coco_dataset/ANNOTATION//frame984.jpg
+/home/deep/coco_dataset/ANNOTATION//s (36).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (64).jpg
+/home/deep/coco_dataset/ANNOTATION//person (175).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (40).jpg
+/home/deep/coco_dataset/ANNOTATION//person (138).jpg
+/home/deep/coco_dataset/ANNOTATION//frame600.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1003.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (10).jpg
+/home/deep/coco_dataset/ANNOTATION//per (161).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1408.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (632).jpg
+/home/deep/coco_dataset/ANNOTATION//frame250.jpg
+/home/deep/coco_dataset/ANNOTATION//frame199.jpg
+/home/deep/coco_dataset/ANNOTATION//frame439.jpg
+/home/deep/coco_dataset/ANNOTATION//s (100).jpg
+/home/deep/coco_dataset/ANNOTATION//frame656.jpg
+/home/deep/coco_dataset/ANNOTATION//s (212).jpg
+/home/deep/coco_dataset/ANNOTATION//frame268.jpg
+/home/deep/coco_dataset/ANNOTATION//frame783.jpg
+/home/deep/coco_dataset/ANNOTATION//frame430.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (341).jpg
+/home/deep/coco_dataset/ANNOTATION//s (312).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (496).jpg
+/home/deep/coco_dataset/ANNOTATION//frame782.jpg
+/home/deep/coco_dataset/ANNOTATION//a (31).jpg
+/home/deep/coco_dataset/ANNOTATION//in (4).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (510).jpg
+/home/deep/coco_dataset/ANNOTATION//frame756.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (290).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (202).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1720.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (208).jpg
+/home/deep/coco_dataset/ANNOTATION//frame925.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (25).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (37).jpg
+/home/deep/coco_dataset/ANNOTATION//frame265.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (44).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (193).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (528).jpg
+/home/deep/coco_dataset/ANNOTATION//frame876.jpg
+/home/deep/coco_dataset/ANNOTATION//s (302).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (19).jpg
+/home/deep/coco_dataset/ANNOTATION//person (127).jpg
+/home/deep/coco_dataset/ANNOTATION//frame33.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (11).jpg
+/home/deep/coco_dataset/ANNOTATION//frame839.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (26).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (138).jpg
+/home/deep/coco_dataset/ANNOTATION//frame742.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (228).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1230.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1218.jpg
+/home/deep/coco_dataset/ANNOTATION//frame189.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (250).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1210.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (30).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (66).jpg
+/home/deep/coco_dataset/ANNOTATION//a (6).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(135).jpg
+/home/deep/coco_dataset/ANNOTATION//s (255).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1185.jpg
+/home/deep/coco_dataset/ANNOTATION//w (34).jpg
+/home/deep/coco_dataset/ANNOTATION//frame62.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (497).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (590).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (521).jpg
+/home/deep/coco_dataset/ANNOTATION//person (119).jpg
+/home/deep/coco_dataset/ANNOTATION//frame119.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (549).jpg
+/home/deep/coco_dataset/ANNOTATION//frame245.jpg
+/home/deep/coco_dataset/ANNOTATION//in (13).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1539.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1502.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (74).jpg
+/home/deep/coco_dataset/ANNOTATION//frame760.jpg
+/home/deep/coco_dataset/ANNOTATION//frame706.jpg
+/home/deep/coco_dataset/ANNOTATION//frame192.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1624.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (37).jpg
+/home/deep/coco_dataset/ANNOTATION//s (79).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (69).jpg
+/home/deep/coco_dataset/ANNOTATION//frame370.jpg
+/home/deep/coco_dataset/ANNOTATION//frame620.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(31).jpg
+/home/deep/coco_dataset/ANNOTATION//in (26).jpg
+/home/deep/coco_dataset/ANNOTATION//140.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (153).jpg
+/home/deep/coco_dataset/ANNOTATION//a (30).jpg
+/home/deep/coco_dataset/ANNOTATION//frame308.jpg
+/home/deep/coco_dataset/ANNOTATION//frame900.jpg
+/home/deep/coco_dataset/ANNOTATION//frame497.jpg
+/home/deep/coco_dataset/ANNOTATION//person (74).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1060.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (82).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1057.jpg
+/home/deep/coco_dataset/ANNOTATION//frame936.jpg
+/home/deep/coco_dataset/ANNOTATION//per (143).jpg
+/home/deep/coco_dataset/ANNOTATION//frame131.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1077.jpg
+/home/deep/coco_dataset/ANNOTATION//person (249).jpg
+/home/deep/coco_dataset/ANNOTATION//w (16).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1296.jpg
+/home/deep/coco_dataset/ANNOTATION//a (60).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (431).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (608).jpg
+/home/deep/coco_dataset/ANNOTATION//frame814.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1069.jpg
+/home/deep/coco_dataset/ANNOTATION//s (58).jpg
+/home/deep/coco_dataset/ANNOTATION//person (16).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1542.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (155).jpg
+/home/deep/coco_dataset/ANNOTATION//a (41).jpg
+/home/deep/coco_dataset/ANNOTATION//frame16.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (5).jpg
+/home/deep/coco_dataset/ANNOTATION//person (236).jpg
+/home/deep/coco_dataset/ANNOTATION//frame950.jpg
+/home/deep/coco_dataset/ANNOTATION//frame371.jpg
+/home/deep/coco_dataset/ANNOTATION//s (183).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1126.jpg
+/home/deep/coco_dataset/ANNOTATION//frame754.jpg
+/home/deep/coco_dataset/ANNOTATION//w (2).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (511).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(122).jpg
+/home/deep/coco_dataset/ANNOTATION//frame696.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1483.jpg
+/home/deep/coco_dataset/ANNOTATION//229.jpg
+/home/deep/coco_dataset/ANNOTATION//in (40).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1359.jpg
+/home/deep/coco_dataset/ANNOTATION//per (41).jpg
+/home/deep/coco_dataset/ANNOTATION//frame652.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (50).jpg
+/home/deep/coco_dataset/ANNOTATION//per (124).jpg
+/home/deep/coco_dataset/ANNOTATION//per (201).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (66).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1007.jpg
+/home/deep/coco_dataset/ANNOTATION//w (35).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(83).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (51).jpg
+/home/deep/coco_dataset/ANNOTATION//frame414.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (593).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (354).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1115.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1719.jpg
+/home/deep/coco_dataset/ANNOTATION//in (79).jpg
+/home/deep/coco_dataset/ANNOTATION//person (111).jpg
+/home/deep/coco_dataset/ANNOTATION//frame929.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(130).jpg
+/home/deep/coco_dataset/ANNOTATION//w (23).jpg
+/home/deep/coco_dataset/ANNOTATION//frame685.jpg
+/home/deep/coco_dataset/ANNOTATION//s (201).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (52).jpg
+/home/deep/coco_dataset/ANNOTATION//frame739.jpg
+/home/deep/coco_dataset/ANNOTATION//149.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (384).jpg
+/home/deep/coco_dataset/ANNOTATION//person (215).jpg
+/home/deep/coco_dataset/ANNOTATION//frame915.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (41).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1122.jpg
+/home/deep/coco_dataset/ANNOTATION//person (82).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (23).jpg
+/home/deep/coco_dataset/ANNOTATION//s (111).jpg
+/home/deep/coco_dataset/ANNOTATION//s (220).jpg
+/home/deep/coco_dataset/ANNOTATION//w (20).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1687.jpg
+/home/deep/coco_dataset/ANNOTATION//frame117.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1320.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (39).jpg
+/home/deep/coco_dataset/ANNOTATION//w (42).jpg
+/home/deep/coco_dataset/ANNOTATION//s (298).jpg
+/home/deep/coco_dataset/ANNOTATION//frame974.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (196).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1326.jpg
+/home/deep/coco_dataset/ANNOTATION//per (119).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (128).jpg
+/home/deep/coco_dataset/ANNOTATION//frame409.jpg
+/home/deep/coco_dataset/ANNOTATION//s (57).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(59).jpg
+/home/deep/coco_dataset/ANNOTATION//w (33).jpg
+/home/deep/coco_dataset/ANNOTATION//in (49).jpg
+/home/deep/coco_dataset/ANNOTATION//frame584.jpg
+/home/deep/coco_dataset/ANNOTATION//frame367.jpg
+/home/deep/coco_dataset/ANNOTATION//in (39).jpg
+/home/deep/coco_dataset/ANNOTATION//frame272.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1427.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (249).jpg
+/home/deep/coco_dataset/ANNOTATION//s (252).jpg
+/home/deep/coco_dataset/ANNOTATION//256.jpg
+/home/deep/coco_dataset/ANNOTATION//a (33).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (64).jpg
+/home/deep/coco_dataset/ANNOTATION//frame467.jpg
+/home/deep/coco_dataset/ANNOTATION//person (146).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (73).jpg
+/home/deep/coco_dataset/ANNOTATION//s (49).jpg
+/home/deep/coco_dataset/ANNOTATION//frame178.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1016.jpg
+/home/deep/coco_dataset/ANNOTATION//person (101).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (11).jpg
+/home/deep/coco_dataset/ANNOTATION//116.jpg
+/home/deep/coco_dataset/ANNOTATION//frame520.jpg
+/home/deep/coco_dataset/ANNOTATION//per (24).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (359).jpg
+/home/deep/coco_dataset/ANNOTATION//frame146.jpg
+/home/deep/coco_dataset/ANNOTATION//s (16).jpg
+/home/deep/coco_dataset/ANNOTATION//in (27).jpg
+/home/deep/coco_dataset/ANNOTATION//frame313.jpg
+/home/deep/coco_dataset/ANNOTATION//frame517.jpg
+/home/deep/coco_dataset/ANNOTATION//133.jpg
+/home/deep/coco_dataset/ANNOTATION//frame713.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (165).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(155).jpg
+/home/deep/coco_dataset/ANNOTATION//per (125).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1409.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(162).jpg
+/home/deep/coco_dataset/ANNOTATION//in (20).jpg
+/home/deep/coco_dataset/ANNOTATION//frame362.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1682.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (477).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1127.jpg
+/home/deep/coco_dataset/ANNOTATION//person (139).jpg
+/home/deep/coco_dataset/ANNOTATION//s (268).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (644).jpg
+/home/deep/coco_dataset/ANNOTATION//frame917.jpg
+/home/deep/coco_dataset/ANNOTATION//s (297).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1167.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1457.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (584).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1498.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1585.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (69).jpg
+/home/deep/coco_dataset/ANNOTATION//person (90).jpg
+/home/deep/coco_dataset/ANNOTATION//per (92).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (89).jpg
+/home/deep/coco_dataset/ANNOTATION//frame544.jpg
+/home/deep/coco_dataset/ANNOTATION//frame58.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1521.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (439).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1700.jpg
+/home/deep/coco_dataset/ANNOTATION//w (27).jpg
+/home/deep/coco_dataset/ANNOTATION//s (290).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1694.jpg
+/home/deep/coco_dataset/ANNOTATION//person (63).jpg
+/home/deep/coco_dataset/ANNOTATION//a (1).jpg
+/home/deep/coco_dataset/ANNOTATION//w (19).jpg
+/home/deep/coco_dataset/ANNOTATION//frame68.jpg
+/home/deep/coco_dataset/ANNOTATION//per (80).jpg
+/home/deep/coco_dataset/ANNOTATION//240.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1240.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1611.jpg
+/home/deep/coco_dataset/ANNOTATION//frame901.jpg
+/home/deep/coco_dataset/ANNOTATION//in (38).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1259.jpg
+/home/deep/coco_dataset/ANNOTATION//s (214).jpg
+/home/deep/coco_dataset/ANNOTATION//per (140).jpg
+/home/deep/coco_dataset/ANNOTATION//frame773.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1455.jpg
+/home/deep/coco_dataset/ANNOTATION//person (41).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1174.jpg
+/home/deep/coco_dataset/ANNOTATION//frame609.jpg
+/home/deep/coco_dataset/ANNOTATION//frame987.jpg
+/home/deep/coco_dataset/ANNOTATION//frame967.jpg
+/home/deep/coco_dataset/ANNOTATION//per (14).jpg
+/home/deep/coco_dataset/ANNOTATION//s (278).jpg
+/home/deep/coco_dataset/ANNOTATION//a (22).jpg
+/home/deep/coco_dataset/ANNOTATION//per (115).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1603.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (61).jpg
+/home/deep/coco_dataset/ANNOTATION//per (106).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1070.jpg
+/home/deep/coco_dataset/ANNOTATION//frame84.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (535).jpg
+/home/deep/coco_dataset/ANNOTATION//frame523.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (518).jpg
+/home/deep/coco_dataset/ANNOTATION//frame78.jpg
+/home/deep/coco_dataset/ANNOTATION//s (141).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1665.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (469).jpg
+/home/deep/coco_dataset/ANNOTATION//a (53).jpg
+/home/deep/coco_dataset/ANNOTATION//232.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (621).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1313.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(45).jpg
+/home/deep/coco_dataset/ANNOTATION//in (91).jpg
+/home/deep/coco_dataset/ANNOTATION//s (2).jpg
+/home/deep/coco_dataset/ANNOTATION//person (195).jpg
+/home/deep/coco_dataset/ANNOTATION//per (37).jpg
+/home/deep/coco_dataset/ANNOTATION//s (138).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1419.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1168.jpg
+/home/deep/coco_dataset/ANNOTATION//person (115).jpg
+/home/deep/coco_dataset/ANNOTATION//frame940.jpg
+/home/deep/coco_dataset/ANNOTATION//frame279.jpg
+/home/deep/coco_dataset/ANNOTATION//per (74).jpg
+/home/deep/coco_dataset/ANNOTATION//frame294.jpg
+/home/deep/coco_dataset/ANNOTATION//frame158.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (598).jpg
+/home/deep/coco_dataset/ANNOTATION//s (27).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (66).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (30).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (33).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (673).jpg
+/home/deep/coco_dataset/ANNOTATION//person (124).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (420).jpg
+/home/deep/coco_dataset/ANNOTATION//per (200).jpg
+/home/deep/coco_dataset/ANNOTATION//frame629.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (150).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (240).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1310.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1736.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1250.jpg
+/home/deep/coco_dataset/ANNOTATION//per (23).jpg
+/home/deep/coco_dataset/ANNOTATION//frame441.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(105).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (622).jpg
+/home/deep/coco_dataset/ANNOTATION//s (133).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (76).jpg
+/home/deep/coco_dataset/ANNOTATION//s (172).jpg
+/home/deep/coco_dataset/ANNOTATION//frame772.jpg
+/home/deep/coco_dataset/ANNOTATION//s (231).jpg
+/home/deep/coco_dataset/ANNOTATION//frame323.jpg
+/home/deep/coco_dataset/ANNOTATION//frame36.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (146).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1123.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (274).jpg
+/home/deep/coco_dataset/ANNOTATION//frame610.jpg
+/home/deep/coco_dataset/ANNOTATION//frame423.jpg
+/home/deep/coco_dataset/ANNOTATION//a (17).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1584.jpg
+/home/deep/coco_dataset/ANNOTATION//126.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1432.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1316.jpg
+/home/deep/coco_dataset/ANNOTATION//frame429.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (67).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (379).jpg
+/home/deep/coco_dataset/ANNOTATION//frame232.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (433).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (15).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (242).jpg
+/home/deep/coco_dataset/ANNOTATION//frame870.jpg
+/home/deep/coco_dataset/ANNOTATION//s (238).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1299.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1532.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (380).jpg
+/home/deep/coco_dataset/ANNOTATION//frame307.jpg
+/home/deep/coco_dataset/ANNOTATION//frame892.jpg
+/home/deep/coco_dataset/ANNOTATION//p15.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(167).jpg
+/home/deep/coco_dataset/ANNOTATION//frame714.jpg
+/home/deep/coco_dataset/ANNOTATION//person (178).jpg
+/home/deep/coco_dataset/ANNOTATION//frame745.jpg
+/home/deep/coco_dataset/ANNOTATION//frame885.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (636).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (262).jpg
+/home/deep/coco_dataset/ANNOTATION//s (129).jpg
+/home/deep/coco_dataset/ANNOTATION//person (118).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (601).jpg
+/home/deep/coco_dataset/ANNOTATION//frame86.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (626).jpg
+/home/deep/coco_dataset/ANNOTATION//frame421.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1405.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1239.jpg
+/home/deep/coco_dataset/ANNOTATION//s (244).jpg
+/home/deep/coco_dataset/ANNOTATION//123.jpg
+/home/deep/coco_dataset/ANNOTATION//frame616.jpg
+/home/deep/coco_dataset/ANNOTATION//s (44).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1084.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (507).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1358.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1291.jpg
+/home/deep/coco_dataset/ANNOTATION//frame841.jpg
+/home/deep/coco_dataset/ANNOTATION//33.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (344).jpg
+/home/deep/coco_dataset/ANNOTATION//frame162.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1096.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (49).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (432).jpg
+/home/deep/coco_dataset/ANNOTATION//frame548.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1462.jpg
+/home/deep/coco_dataset/ANNOTATION//frame712.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1076.jpg
+/home/deep/coco_dataset/ANNOTATION//a (39).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (333).jpg
+/home/deep/coco_dataset/ANNOTATION//frame651.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (97).jpg
+/home/deep/coco_dataset/ANNOTATION//frame932.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1453.jpg
+/home/deep/coco_dataset/ANNOTATION//s (6).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1661.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1402.jpg
+/home/deep/coco_dataset/ANNOTATION//frame650.jpg
+/home/deep/coco_dataset/ANNOTATION//per (31).jpg
+/home/deep/coco_dataset/ANNOTATION//s (24).jpg
+/home/deep/coco_dataset/ANNOTATION//frame808.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1018.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (14).jpg
+/home/deep/coco_dataset/ANNOTATION//37.jpg
+/home/deep/coco_dataset/ANNOTATION//frame796.jpg
+/home/deep/coco_dataset/ANNOTATION//frame884.jpg
+/home/deep/coco_dataset/ANNOTATION//41.jpg
+/home/deep/coco_dataset/ANNOTATION//frame926.jpg
+/home/deep/coco_dataset/ANNOTATION//frame459.jpg
+/home/deep/coco_dataset/ANNOTATION//person (220).jpg
+/home/deep/coco_dataset/ANNOTATION//frame93.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1285.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1124.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (20).jpg
+/home/deep/coco_dataset/ANNOTATION//person (114).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1476.jpg
+/home/deep/coco_dataset/ANNOTATION//132.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (396).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (28).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1613.jpg
+/home/deep/coco_dataset/ANNOTATION//person (223).jpg
+/home/deep/coco_dataset/ANNOTATION//frame340.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1705.jpg
+/home/deep/coco_dataset/ANNOTATION//frame722.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1385.jpg
+/home/deep/coco_dataset/ANNOTATION//frame27.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (264).jpg
+/home/deep/coco_dataset/ANNOTATION//227.jpg
+/home/deep/coco_dataset/ANNOTATION//s (10).jpg
+/home/deep/coco_dataset/ANNOTATION//a (61).jpg
+/home/deep/coco_dataset/ANNOTATION//person (213).jpg
+/home/deep/coco_dataset/ANNOTATION//frame561.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (44).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (475).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (548).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (57).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1297.jpg
+/home/deep/coco_dataset/ANNOTATION//s (194).jpg
+/home/deep/coco_dataset/ANNOTATION//161.jpg
+/home/deep/coco_dataset/ANNOTATION//frame69.jpg
+/home/deep/coco_dataset/ANNOTATION//frame819.jpg
+/home/deep/coco_dataset/ANNOTATION//185.jpg
+/home/deep/coco_dataset/ANNOTATION//s (174).jpg
+/home/deep/coco_dataset/ANNOTATION//frame972.jpg
+/home/deep/coco_dataset/ANNOTATION//frame592.jpg
+/home/deep/coco_dataset/ANNOTATION//frame82.jpg
+/home/deep/coco_dataset/ANNOTATION//in (33).jpg
+/home/deep/coco_dataset/ANNOTATION//frame230.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (54).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1098.jpg
+/home/deep/coco_dataset/ANNOTATION//frame463.jpg
+/home/deep/coco_dataset/ANNOTATION//a (36).jpg
+/home/deep/coco_dataset/ANNOTATION//frame411.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1221.jpg
+/home/deep/coco_dataset/ANNOTATION//a (21).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1273.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1328.jpg
+/home/deep/coco_dataset/ANNOTATION//s (103).jpg
+/home/deep/coco_dataset/ANNOTATION//s (1).jpg
+/home/deep/coco_dataset/ANNOTATION//s (107).jpg
+/home/deep/coco_dataset/ANNOTATION//frame253.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1020.jpg
+/home/deep/coco_dataset/ANNOTATION//frame246.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(119).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (265).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1600.jpg
+/home/deep/coco_dataset/ANNOTATION//per (57).jpg
+/home/deep/coco_dataset/ANNOTATION//person (25).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1203.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1213.jpg
+/home/deep/coco_dataset/ANNOTATION//frame13.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1726.jpg
+/home/deep/coco_dataset/ANNOTATION//s (269).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (542).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1400.jpg
+/home/deep/coco_dataset/ANNOTATION//person (24).jpg
+/home/deep/coco_dataset/ANNOTATION//frame290.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (46).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (611).jpg
+/home/deep/coco_dataset/ANNOTATION//97.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1703.jpg
+/home/deep/coco_dataset/ANNOTATION//in (57).jpg
+/home/deep/coco_dataset/ANNOTATION//person (22).jpg
+/home/deep/coco_dataset/ANNOTATION//frame717.jpg
+/home/deep/coco_dataset/ANNOTATION//per (178).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (458).jpg
+/home/deep/coco_dataset/ANNOTATION//in (43).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (100).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1175.jpg
+/home/deep/coco_dataset/ANNOTATION//per (137).jpg
+/home/deep/coco_dataset/ANNOTATION//241.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (421).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1002.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (232).jpg
+/home/deep/coco_dataset/ANNOTATION//68.jpg
+/home/deep/coco_dataset/ANNOTATION//frame113.jpg
+/home/deep/coco_dataset/ANNOTATION//s (237).jpg
+/home/deep/coco_dataset/ANNOTATION//frame177.jpg
+/home/deep/coco_dataset/ANNOTATION//person (149).jpg
+/home/deep/coco_dataset/ANNOTATION//40.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (612).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (35).jpg
+/home/deep/coco_dataset/ANNOTATION//frame559.jpg
+/home/deep/coco_dataset/ANNOTATION//per (170).jpg
+/home/deep/coco_dataset/ANNOTATION//frame724.jpg
+/home/deep/coco_dataset/ANNOTATION//frame301.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (502).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1450.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (41).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (403).jpg
+/home/deep/coco_dataset/ANNOTATION//s (21).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1176.jpg
+/home/deep/coco_dataset/ANNOTATION//frame761.jpg
+/home/deep/coco_dataset/ANNOTATION//frame663.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1081.jpg
+/home/deep/coco_dataset/ANNOTATION//s (71).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (400).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (102).jpg
+/home/deep/coco_dataset/ANNOTATION//frame144.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1598.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1630.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (118).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (215).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (570).jpg
+/home/deep/coco_dataset/ANNOTATION//per (63).jpg
+/home/deep/coco_dataset/ANNOTATION//frame786.jpg
+/home/deep/coco_dataset/ANNOTATION//s (246).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1088.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (48).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (18).jpg
+/home/deep/coco_dataset/ANNOTATION//frame688.jpg
+/home/deep/coco_dataset/ANNOTATION//a (12).jpg
+/home/deep/coco_dataset/ANNOTATION//person (31).jpg
+/home/deep/coco_dataset/ANNOTATION//person (33).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (134).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (70).jpg
+/home/deep/coco_dataset/ANNOTATION//w (41).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1575.jpg
+/home/deep/coco_dataset/ANNOTATION//person (113).jpg
+/home/deep/coco_dataset/ANNOTATION//186.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (482).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (109).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (364).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1467.jpg
+/home/deep/coco_dataset/ANNOTATION//person (222).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(123).jpg
+/home/deep/coco_dataset/ANNOTATION//frame154.jpg
+/home/deep/coco_dataset/ANNOTATION//s (117).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1109.jpg
+/home/deep/coco_dataset/ANNOTATION//person (17).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (575).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (4).jpg
+/home/deep/coco_dataset/ANNOTATION//in (41).jpg
+/home/deep/coco_dataset/ANNOTATION//frame401.jpg
+/home/deep/coco_dataset/ANNOTATION//in (29).jpg
+/home/deep/coco_dataset/ANNOTATION//frame682.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (356).jpg
+/home/deep/coco_dataset/ANNOTATION//s (169).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1215.jpg
+/home/deep/coco_dataset/ANNOTATION//person (110).jpg
+/home/deep/coco_dataset/ANNOTATION//per (52).jpg
+/home/deep/coco_dataset/ANNOTATION//person (112).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (623).jpg
+/home/deep/coco_dataset/ANNOTATION//frame867.jpg
+/home/deep/coco_dataset/ANNOTATION//44.jpg
+/home/deep/coco_dataset/ANNOTATION//frame542.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(113).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (234).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1348.jpg
+/home/deep/coco_dataset/ANNOTATION//per (39).jpg
+/home/deep/coco_dataset/ANNOTATION//190.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (526).jpg
+/home/deep/coco_dataset/ANNOTATION//frame415.jpg
+/home/deep/coco_dataset/ANNOTATION//w (12).jpg
+/home/deep/coco_dataset/ANNOTATION//w (25).jpg
+/home/deep/coco_dataset/ANNOTATION//frame260.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1653.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1361.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (255).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1571.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (187).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (65).jpg
+/home/deep/coco_dataset/ANNOTATION//person (214).jpg
+/home/deep/coco_dataset/ANNOTATION//frame438.jpg
+/home/deep/coco_dataset/ANNOTATION//frame300.jpg
+/home/deep/coco_dataset/ANNOTATION//frame461.jpg
+/home/deep/coco_dataset/ANNOTATION//person (14).jpg
+/home/deep/coco_dataset/ANNOTATION//frame101.jpg
+/home/deep/coco_dataset/ANNOTATION//frame939.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1370.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (121).jpg
+/home/deep/coco_dataset/ANNOTATION//frame254.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1025.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (600).jpg
+/home/deep/coco_dataset/ANNOTATION//261.jpg
+/home/deep/coco_dataset/ANNOTATION//person (76).jpg
+/home/deep/coco_dataset/ANNOTATION//a (15).jpg
+/home/deep/coco_dataset/ANNOTATION//in (53).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1739.jpg
+/home/deep/coco_dataset/ANNOTATION//frame898.jpg
+/home/deep/coco_dataset/ANNOTATION//person (201).jpg
+/home/deep/coco_dataset/ANNOTATION//s (118).jpg
+/home/deep/coco_dataset/ANNOTATION//per (86).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(15).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (409).jpg
+/home/deep/coco_dataset/ANNOTATION//frame554.jpg
+/home/deep/coco_dataset/ANNOTATION//person (205).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1142.jpg
+/home/deep/coco_dataset/ANNOTATION//a (18).jpg
+/home/deep/coco_dataset/ANNOTATION//frame578.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1397.jpg
+/home/deep/coco_dataset/ANNOTATION//frame393.jpg
+/home/deep/coco_dataset/ANNOTATION//202.jpg
+/home/deep/coco_dataset/ANNOTATION//frame621.jpg
+/home/deep/coco_dataset/ANNOTATION//frame990.jpg
+/home/deep/coco_dataset/ANNOTATION//s (86).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (92).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (84).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (34).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1289.jpg
+/home/deep/coco_dataset/ANNOTATION//person (20).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(125).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1337.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (643).jpg
+/home/deep/coco_dataset/ANNOTATION//person (73).jpg
+/home/deep/coco_dataset/ANNOTATION//frame849.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1429.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (54).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1690.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (554).jpg
+/home/deep/coco_dataset/ANNOTATION//frame920.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (78).jpg
+/home/deep/coco_dataset/ANNOTATION//s (211).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1477.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (87).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (66).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (649).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1311.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1417.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (122).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (513).jpg
+/home/deep/coco_dataset/ANNOTATION//s (12).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (454).jpg
+/home/deep/coco_dataset/ANNOTATION//frame302.jpg
+/home/deep/coco_dataset/ANNOTATION//per (87).jpg
+/home/deep/coco_dataset/ANNOTATION//110.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(111).jpg
+/home/deep/coco_dataset/ANNOTATION//person (66).jpg
+/home/deep/coco_dataset/ANNOTATION//person (237).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1514.jpg
+/home/deep/coco_dataset/ANNOTATION//frame708.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1290.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (168).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (607).jpg
+/home/deep/coco_dataset/ANNOTATION//s (87).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (53).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (4).jpg
+/home/deep/coco_dataset/ANNOTATION//in (81).jpg
+/home/deep/coco_dataset/ANNOTATION//frame330.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (538).jpg
+/home/deep/coco_dataset/ANNOTATION//frame674.jpg
+/home/deep/coco_dataset/ANNOTATION//frame647.jpg
+/home/deep/coco_dataset/ANNOTATION//frame615.jpg
+/home/deep/coco_dataset/ANNOTATION//frame436.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (246).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (98).jpg
+/home/deep/coco_dataset/ANNOTATION//frame622.jpg
+/home/deep/coco_dataset/ANNOTATION//frame755.jpg
+/home/deep/coco_dataset/ANNOTATION//frame417.jpg
+/home/deep/coco_dataset/ANNOTATION//person (38).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1050.jpg
+/home/deep/coco_dataset/ANNOTATION//frame329.jpg
+/home/deep/coco_dataset/ANNOTATION//frame983.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(73).jpg
+/home/deep/coco_dataset/ANNOTATION//113.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (106).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1618.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1601.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (671).jpg
+/home/deep/coco_dataset/ANNOTATION//frame848.jpg
+/home/deep/coco_dataset/ANNOTATION//252.jpg
+/home/deep/coco_dataset/ANNOTATION//frame73.jpg
+/home/deep/coco_dataset/ANNOTATION//frame173.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1595.jpg
+/home/deep/coco_dataset/ANNOTATION//person (140).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (45).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1304.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (472).jpg
+/home/deep/coco_dataset/ANNOTATION//frame832.jpg
+/home/deep/coco_dataset/ANNOTATION//frame552.jpg
+/home/deep/coco_dataset/ANNOTATION//frame567.jpg
+/home/deep/coco_dataset/ANNOTATION//frame289.jpg
+/home/deep/coco_dataset/ANNOTATION//person (150).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1433.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1217.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1637.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (460).jpg
+/home/deep/coco_dataset/ANNOTATION//in (12).jpg
+/home/deep/coco_dataset/ANNOTATION//frame603.jpg
+/home/deep/coco_dataset/ANNOTATION//in (25).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1470.jpg
+/home/deep/coco_dataset/ANNOTATION//in (86).jpg
+/home/deep/coco_dataset/ANNOTATION//frame669.jpg
+/home/deep/coco_dataset/ANNOTATION//frame676.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1669.jpg
+/home/deep/coco_dataset/ANNOTATION//s (93).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1065.jpg
+/home/deep/coco_dataset/ANNOTATION//frame486.jpg
+/home/deep/coco_dataset/ANNOTATION//frame535.jpg
+/home/deep/coco_dataset/ANNOTATION//150.jpg
+/home/deep/coco_dataset/ANNOTATION//frame128.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1722.jpg
+/home/deep/coco_dataset/ANNOTATION//s (108).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (277).jpg
+/home/deep/coco_dataset/ANNOTATION//s (187).jpg
+/home/deep/coco_dataset/ANNOTATION//frame249.jpg
+/home/deep/coco_dataset/ANNOTATION//per (101).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (26).jpg
+/home/deep/coco_dataset/ANNOTATION//frame165.jpg
+/home/deep/coco_dataset/ANNOTATION//frame641.jpg
+/home/deep/coco_dataset/ANNOTATION//frame291.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1214.jpg
+/home/deep/coco_dataset/ANNOTATION//s (72).jpg
+/home/deep/coco_dataset/ANNOTATION//frame853.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(132).jpg
+/home/deep/coco_dataset/ANNOTATION//w (4).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (486).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1274.jpg
+/home/deep/coco_dataset/ANNOTATION//193.jpg
+/home/deep/coco_dataset/ANNOTATION//a (24).jpg
+/home/deep/coco_dataset/ANNOTATION//frame75.jpg
+/home/deep/coco_dataset/ANNOTATION//frame799.jpg
+/home/deep/coco_dataset/ANNOTATION//per (44).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (16).jpg
+/home/deep/coco_dataset/ANNOTATION//person (181).jpg
+/home/deep/coco_dataset/ANNOTATION//frame395.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (20).jpg
+/home/deep/coco_dataset/ANNOTATION//person (98).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1572.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (463).jpg
+/home/deep/coco_dataset/ANNOTATION//w (45).jpg
+/home/deep/coco_dataset/ANNOTATION//frame360.jpg
+/home/deep/coco_dataset/ANNOTATION//frame855.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (378).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1131.jpg
+/home/deep/coco_dataset/ANNOTATION//142.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1066.jpg
+/home/deep/coco_dataset/ANNOTATION//s (273).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1411.jpg
+/home/deep/coco_dataset/ANNOTATION//189.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (478).jpg
+/home/deep/coco_dataset/ANNOTATION//131.jpg
+/home/deep/coco_dataset/ANNOTATION//s (309).jpg
+/home/deep/coco_dataset/ANNOTATION//a (26).jpg
+/home/deep/coco_dataset/ANNOTATION//w (17).jpg
+/home/deep/coco_dataset/ANNOTATION//frame667.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (185).jpg
+/home/deep/coco_dataset/ANNOTATION//frame51.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (638).jpg
+/home/deep/coco_dataset/ANNOTATION//person (9).jpg
+/home/deep/coco_dataset/ANNOTATION//s (32).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (635).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1333.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (438).jpg
+/home/deep/coco_dataset/ANNOTATION//frame862.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(110).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (100).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1392.jpg
+/home/deep/coco_dataset/ANNOTATION//w (26).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (72).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1646.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1683.jpg
+/home/deep/coco_dataset/ANNOTATION//frame803.jpg
+/home/deep/coco_dataset/ANNOTATION//frame157.jpg
+/home/deep/coco_dataset/ANNOTATION//frame551.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1602.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(131).jpg
+/home/deep/coco_dataset/ANNOTATION//in (48).jpg
+/home/deep/coco_dataset/ANNOTATION//s (128).jpg
+/home/deep/coco_dataset/ANNOTATION//s (26).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1278.jpg
+/home/deep/coco_dataset/ANNOTATION//a (42).jpg
+/home/deep/coco_dataset/ANNOTATION//frame800.jpg
+/home/deep/coco_dataset/ANNOTATION//frame505.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (303).jpg
+/home/deep/coco_dataset/ANNOTATION//frame275.jpg
+/home/deep/coco_dataset/ANNOTATION//frame911.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(16).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (159).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1436.jpg
+/home/deep/coco_dataset/ANNOTATION//per (102).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (94).jpg
+/home/deep/coco_dataset/ANNOTATION//s (199).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (545).jpg
+/home/deep/coco_dataset/ANNOTATION//in (54).jpg
+/home/deep/coco_dataset/ANNOTATION//in (74).jpg
+/home/deep/coco_dataset/ANNOTATION//per (165).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (572).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (91).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1463.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1724.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (176).jpg
+/home/deep/coco_dataset/ANNOTATION//frame353.jpg
+/home/deep/coco_dataset/ANNOTATION//frame776.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1152.jpg
+/home/deep/coco_dataset/ANNOTATION//frame655.jpg
+/home/deep/coco_dataset/ANNOTATION//per (123).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (38).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1075.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (494).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (67).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (479).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (141).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (414).jpg
+/home/deep/coco_dataset/ANNOTATION//person (103).jpg
+/home/deep/coco_dataset/ANNOTATION//per (126).jpg
+/home/deep/coco_dataset/ANNOTATION//frame639.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1497.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(104).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1373.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1384.jpg
+/home/deep/coco_dataset/ANNOTATION//person (28).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (41).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1237.jpg
+/home/deep/coco_dataset/ANNOTATION//178.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (5).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (498).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1053.jpg
+/home/deep/coco_dataset/ANNOTATION//frame120.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1554.jpg
+/home/deep/coco_dataset/ANNOTATION//155.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (603).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (70).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1538.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1093.jpg
+/home/deep/coco_dataset/ANNOTATION//frame335.jpg
+/home/deep/coco_dataset/ANNOTATION//in (73).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1553.jpg
+/home/deep/coco_dataset/ANNOTATION//per (174).jpg
+/home/deep/coco_dataset/ANNOTATION//s (171).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1040.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (31).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (59).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (43).jpg
+/home/deep/coco_dataset/ANNOTATION//frame237.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (491).jpg
+/home/deep/coco_dataset/ANNOTATION//per (107).jpg
+/home/deep/coco_dataset/ANNOTATION//in (56).jpg
+/home/deep/coco_dataset/ANNOTATION//frame163.jpg
+/home/deep/coco_dataset/ANNOTATION//per (176).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1226.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1056.jpg
+/home/deep/coco_dataset/ANNOTATION//s (208).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1448.jpg
+/home/deep/coco_dataset/ANNOTATION//104.jpg
+/home/deep/coco_dataset/ANNOTATION//124.jpg
+/home/deep/coco_dataset/ANNOTATION//s (222).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1356.jpg
+/home/deep/coco_dataset/ANNOTATION//per (72).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1067.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1503.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (282).jpg
+/home/deep/coco_dataset/ANNOTATION//s (165).jpg
+/home/deep/coco_dataset/ANNOTATION//frame31.jpg
+/home/deep/coco_dataset/ANNOTATION//frame633.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (500).jpg
+/home/deep/coco_dataset/ANNOTATION//person (8).jpg
+/home/deep/coco_dataset/ANNOTATION//person (216).jpg
+/home/deep/coco_dataset/ANNOTATION//frame994.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (540).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (547).jpg
+/home/deep/coco_dataset/ANNOTATION//frame638.jpg
+/home/deep/coco_dataset/ANNOTATION//frame587.jpg
+/home/deep/coco_dataset/ANNOTATION//frame816.jpg
+/home/deep/coco_dataset/ANNOTATION//frame780.jpg
+/home/deep/coco_dataset/ANNOTATION//frame831.jpg
+/home/deep/coco_dataset/ANNOTATION//frame558.jpg
+/home/deep/coco_dataset/ANNOTATION//in (62).jpg
+/home/deep/coco_dataset/ANNOTATION//frame569.jpg
+/home/deep/coco_dataset/ANNOTATION//frame844.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1390.jpg
+/home/deep/coco_dataset/ANNOTATION//frame962.jpg
+/home/deep/coco_dataset/ANNOTATION//per (172).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1148.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1041.jpg
+/home/deep/coco_dataset/ANNOTATION//51.jpg
+/home/deep/coco_dataset/ANNOTATION//frame978.jpg
+/home/deep/coco_dataset/ANNOTATION//182.jpg
+/home/deep/coco_dataset/ANNOTATION//98.jpg
+/home/deep/coco_dataset/ANNOTATION//frame527.jpg
+/home/deep/coco_dataset/ANNOTATION//s (39).jpg
+/home/deep/coco_dataset/ANNOTATION//frame350.jpg
+/home/deep/coco_dataset/ANNOTATION//s (140).jpg
+/home/deep/coco_dataset/ANNOTATION//s (215).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(121).jpg
+/home/deep/coco_dataset/ANNOTATION//s (116).jpg
+/home/deep/coco_dataset/ANNOTATION//a (5).jpg
+/home/deep/coco_dataset/ANNOTATION//frame874.jpg
+/home/deep/coco_dataset/ANNOTATION//frame332.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (147).jpg
+/home/deep/coco_dataset/ANNOTATION//frame660.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (64).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (92).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (300).jpg
+/home/deep/coco_dataset/ANNOTATION//person (238).jpg
+/home/deep/coco_dataset/ANNOTATION//frame893.jpg
+/home/deep/coco_dataset/ANNOTATION//frame820.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (68).jpg
+/home/deep/coco_dataset/ANNOTATION//per (46).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (80).jpg
+/home/deep/coco_dataset/ANNOTATION//frame312.jpg
+/home/deep/coco_dataset/ANNOTATION//frame70.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1317.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (553).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1194.jpg
+/home/deep/coco_dataset/ANNOTATION//frame427.jpg
+/home/deep/coco_dataset/ANNOTATION//per (166).jpg
+/home/deep/coco_dataset/ANNOTATION//frame809.jpg
+/home/deep/coco_dataset/ANNOTATION//frame810.jpg
+/home/deep/coco_dataset/ANNOTATION//w (29).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(85).jpg
+/home/deep/coco_dataset/ANNOTATION//person (207).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1248.jpg
+/home/deep/coco_dataset/ANNOTATION//frame947.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1537.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1028.jpg
+/home/deep/coco_dataset/ANNOTATION//frame658.jpg
+/home/deep/coco_dataset/ANNOTATION//frame801.jpg
+/home/deep/coco_dataset/ANNOTATION//person (109).jpg
+/home/deep/coco_dataset/ANNOTATION//frame963.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (299).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (72).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1487.jpg
+/home/deep/coco_dataset/ANNOTATION//frame202.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (22).jpg
+/home/deep/coco_dataset/ANNOTATION//frame465.jpg
+/home/deep/coco_dataset/ANNOTATION//frame608.jpg
+/home/deep/coco_dataset/ANNOTATION//135.jpg
+/home/deep/coco_dataset/ANNOTATION//per (103).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1406.jpg
+/home/deep/coco_dataset/ANNOTATION//s (179).jpg
+/home/deep/coco_dataset/ANNOTATION//frame127.jpg
+/home/deep/coco_dataset/ANNOTATION//per (154).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1678.jpg
+/home/deep/coco_dataset/ANNOTATION//frame976.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1696.jpg
+/home/deep/coco_dataset/ANNOTATION//151.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (23).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (24).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1418.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(152).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (398).jpg
+/home/deep/coco_dataset/ANNOTATION//s (188).jpg
+/home/deep/coco_dataset/ANNOTATION//person (69).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1105.jpg
+/home/deep/coco_dataset/ANNOTATION//frame364.jpg
+/home/deep/coco_dataset/ANNOTATION//a (47).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (189).jpg
+/home/deep/coco_dataset/ANNOTATION//180.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1253.jpg
+/home/deep/coco_dataset/ANNOTATION//frame680.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (49).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (543).jpg
+/home/deep/coco_dataset/ANNOTATION//frame585.jpg
+/home/deep/coco_dataset/ANNOTATION//frame168.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (79).jpg
+/home/deep/coco_dataset/ANNOTATION//frame338.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1012.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1396.jpg
+/home/deep/coco_dataset/ANNOTATION//per (156).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1201.jpg
+/home/deep/coco_dataset/ANNOTATION//s (63).jpg
+/home/deep/coco_dataset/ANNOTATION//65.jpg
+/home/deep/coco_dataset/ANNOTATION//frame346.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1000.jpg
+/home/deep/coco_dataset/ANNOTATION//frame698.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1287.jpg
+/home/deep/coco_dataset/ANNOTATION//frame589.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1494.jpg
+/home/deep/coco_dataset/ANNOTATION//frame789.jpg
+/home/deep/coco_dataset/ANNOTATION//person (92).jpg
+/home/deep/coco_dataset/ANNOTATION//frame749.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1352.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (247).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1518.jpg
+/home/deep/coco_dataset/ANNOTATION//s (38).jpg
+/home/deep/coco_dataset/ANNOTATION//per (8).jpg
+/home/deep/coco_dataset/ANNOTATION//s (78).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (199).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1303.jpg
+/home/deep/coco_dataset/ANNOTATION//in (5).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1426.jpg
+/home/deep/coco_dataset/ANNOTATION//frame460.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (294).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (408).jpg
+/home/deep/coco_dataset/ANNOTATION//176.jpg
+/home/deep/coco_dataset/ANNOTATION//frame267.jpg
+/home/deep/coco_dataset/ANNOTATION//127.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1541.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (104).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (60).jpg
+/home/deep/coco_dataset/ANNOTATION//person (88).jpg
+/home/deep/coco_dataset/ANNOTATION//129.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1156.jpg
+/home/deep/coco_dataset/ANNOTATION//frame310.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (93).jpg
+/home/deep/coco_dataset/ANNOTATION//frame9.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (124).jpg
+/home/deep/coco_dataset/ANNOTATION//frame957.jpg
+/home/deep/coco_dataset/ANNOTATION//per (33).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1520.jpg
+/home/deep/coco_dataset/ANNOTATION//a (25).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (311).jpg
+/home/deep/coco_dataset/ANNOTATION//s (114).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (52).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1489.jpg
+/home/deep/coco_dataset/ANNOTATION//152.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1331.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (209).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (411).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (474).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (83).jpg
+/home/deep/coco_dataset/ANNOTATION//per (109).jpg
+/home/deep/coco_dataset/ANNOTATION//person (93).jpg
+/home/deep/coco_dataset/ANNOTATION//frame396.jpg
+/home/deep/coco_dataset/ANNOTATION//person (94).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (15).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (9).jpg
+/home/deep/coco_dataset/ANNOTATION//72.jpg
+/home/deep/coco_dataset/ANNOTATION//frame526.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (426).jpg
+/home/deep/coco_dataset/ANNOTATION//196.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (286).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1604.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (307).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (88).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1639.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1592.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1559.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1265.jpg
+/home/deep/coco_dataset/ANNOTATION//frame351.jpg
+/home/deep/coco_dataset/ANNOTATION//frame15.jpg
+/home/deep/coco_dataset/ANNOTATION//frame298.jpg
+/home/deep/coco_dataset/ANNOTATION//s (190).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(13).jpg
+/home/deep/coco_dataset/ANNOTATION//frame611.jpg
+/home/deep/coco_dataset/ANNOTATION//frame404.jpg
+/home/deep/coco_dataset/ANNOTATION//frame514.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(93).jpg
+/home/deep/coco_dataset/ANNOTATION//per (28).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(63).jpg
+/home/deep/coco_dataset/ANNOTATION//frame328.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (631).jpg
+/home/deep/coco_dataset/ANNOTATION//person (192).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1738.jpg
+/home/deep/coco_dataset/ANNOTATION//a (51).jpg
+/home/deep/coco_dataset/ANNOTATION//frame946.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1741.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(103).jpg
+/home/deep/coco_dataset/ANNOTATION//per (50).jpg
+/home/deep/coco_dataset/ANNOTATION//s (247).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1275.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (48).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1295.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (661).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (236).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(35).jpg
+/home/deep/coco_dataset/ANNOTATION//254.jpg
+/home/deep/coco_dataset/ANNOTATION//frame594.jpg
+/home/deep/coco_dataset/ANNOTATION//34.jpg
+/home/deep/coco_dataset/ANNOTATION//frame358.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1681.jpg
+/home/deep/coco_dataset/ANNOTATION//frame818.jpg
+/home/deep/coco_dataset/ANNOTATION//frame907.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1198.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (442).jpg
+/home/deep/coco_dataset/ANNOTATION//69.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (132).jpg
+/home/deep/coco_dataset/ANNOTATION//person (203).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1364.jpg
+/home/deep/coco_dataset/ANNOTATION//226.jpg
+/home/deep/coco_dataset/ANNOTATION//per (25).jpg
+/home/deep/coco_dataset/ANNOTATION//239.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1039.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1693.jpg
+/home/deep/coco_dataset/ANNOTATION//frame866.jpg
+/home/deep/coco_dataset/ANNOTATION//per (55).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (462).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1469.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1114.jpg
+/home/deep/coco_dataset/ANNOTATION//w (30).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1379.jpg
+/home/deep/coco_dataset/ANNOTATION//frame74.jpg
+/home/deep/coco_dataset/ANNOTATION//frame383.jpg
+/home/deep/coco_dataset/ANNOTATION//frame553.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(150).jpg
+/home/deep/coco_dataset/ANNOTATION//person (157).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1674.jpg
+/home/deep/coco_dataset/ANNOTATION//per (169).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1579.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (220).jpg
+/home/deep/coco_dataset/ANNOTATION//frame170.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (56).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(136).jpg
+/home/deep/coco_dataset/ANNOTATION//frame226.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1527.jpg
+/home/deep/coco_dataset/ANNOTATION//frame948.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1588.jpg
+/home/deep/coco_dataset/ANNOTATION//frame602.jpg
+/home/deep/coco_dataset/ANNOTATION//frame571.jpg
+/home/deep/coco_dataset/ANNOTATION//in (7).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (594).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1055.jpg
+/home/deep/coco_dataset/ANNOTATION//frame703.jpg
+/home/deep/coco_dataset/ANNOTATION//frame28.jpg
+/home/deep/coco_dataset/ANNOTATION//s (166).jpg
+/home/deep/coco_dataset/ANNOTATION//frame125.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1293.jpg
+/home/deep/coco_dataset/ANNOTATION//frame727.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1557.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(172).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (21).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (667).jpg
+/home/deep/coco_dataset/ANNOTATION//person (148).jpg
+/home/deep/coco_dataset/ANNOTATION//s (22).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1163.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (217).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(40).jpg
+/home/deep/coco_dataset/ANNOTATION//frame303.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1268.jpg
+/home/deep/coco_dataset/ANNOTATION//frame692.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (62).jpg
+/home/deep/coco_dataset/ANNOTATION//frame576.jpg
+/home/deep/coco_dataset/ANNOTATION//128.jpg
+/home/deep/coco_dataset/ANNOTATION//frame142.jpg
+/home/deep/coco_dataset/ANNOTATION//frame213.jpg
+/home/deep/coco_dataset/ANNOTATION//157.jpg
+/home/deep/coco_dataset/ANNOTATION//per (56).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1596.jpg
+/home/deep/coco_dataset/ANNOTATION//w (15).jpg
+/home/deep/coco_dataset/ANNOTATION//frame425.jpg
+/home/deep/coco_dataset/ANNOTATION//frame14.jpg
+/home/deep/coco_dataset/ANNOTATION//frame295.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (56).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1251.jpg
+/home/deep/coco_dataset/ANNOTATION//s (18).jpg
+/home/deep/coco_dataset/ANNOTATION//person (182).jpg
+/home/deep/coco_dataset/ANNOTATION//frame355.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1632.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(157).jpg
+/home/deep/coco_dataset/ANNOTATION//frame88.jpg
+/home/deep/coco_dataset/ANNOTATION//frame378.jpg
+/home/deep/coco_dataset/ANNOTATION//per (21).jpg
+/home/deep/coco_dataset/ANNOTATION//107.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1590.jpg
+/home/deep/coco_dataset/ANNOTATION//in (69).jpg
+/home/deep/coco_dataset/ANNOTATION//person (122).jpg
+/home/deep/coco_dataset/ANNOTATION//frame636.jpg
+/home/deep/coco_dataset/ANNOTATION//102.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (332).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1382.jpg
+/home/deep/coco_dataset/ANNOTATION//frame322.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1143.jpg
+/home/deep/coco_dataset/ANNOTATION//s (270).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (425).jpg
+/home/deep/coco_dataset/ANNOTATION//frame784.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (363).jpg
+/home/deep/coco_dataset/ANNOTATION//frame3.jpg
+/home/deep/coco_dataset/ANNOTATION//frame400.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (34).jpg
+/home/deep/coco_dataset/ANNOTATION//43.jpg
+/home/deep/coco_dataset/ANNOTATION//person (19).jpg
+/home/deep/coco_dataset/ANNOTATION//frame211.jpg
+/home/deep/coco_dataset/ANNOTATION//frame445.jpg
+/home/deep/coco_dataset/ANNOTATION//frame573.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1063.jpg
+/home/deep/coco_dataset/ANNOTATION//person (58).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (259).jpg
+/home/deep/coco_dataset/ANNOTATION//194.jpg
+/home/deep/coco_dataset/ANNOTATION//frame916.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1374.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (55).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1223.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (143).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (481).jpg
+/home/deep/coco_dataset/ANNOTATION//s (115).jpg
+/home/deep/coco_dataset/ANNOTATION//frame337.jpg
+/home/deep/coco_dataset/ANNOTATION//frame66.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1606.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1128.jpg
+/home/deep/coco_dataset/ANNOTATION//frame339.jpg
+/home/deep/coco_dataset/ANNOTATION//s (198).jpg
+/home/deep/coco_dataset/ANNOTATION//frame435.jpg
+/home/deep/coco_dataset/ANNOTATION//s (109).jpg
+/home/deep/coco_dataset/ANNOTATION//person (60).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1612.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(49).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1475.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1551.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (210).jpg
+/home/deep/coco_dataset/ANNOTATION//165.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1341.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (3).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1360.jpg
+/home/deep/coco_dataset/ANNOTATION//s (104).jpg
+/home/deep/coco_dataset/ANNOTATION//s (213).jpg
+/home/deep/coco_dataset/ANNOTATION//in (59).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (81).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (529).jpg
+/home/deep/coco_dataset/ANNOTATION//frame481.jpg
+/home/deep/coco_dataset/ANNOTATION//frame391.jpg
+/home/deep/coco_dataset/ANNOTATION//person (78).jpg
+/home/deep/coco_dataset/ANNOTATION//frame593.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (588).jpg
+/home/deep/coco_dataset/ANNOTATION//frame239.jpg
+/home/deep/coco_dataset/ANNOTATION//person (49).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1288.jpg
+/home/deep/coco_dataset/ANNOTATION//frame30.jpg
+/home/deep/coco_dataset/ANNOTATION//frame29.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1346.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (158).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (53).jpg
+/home/deep/coco_dataset/ANNOTATION//s (209).jpg
+/home/deep/coco_dataset/ANNOTATION//frame111.jpg
+/home/deep/coco_dataset/ANNOTATION//frame372.jpg
+/home/deep/coco_dataset/ANNOTATION//frame63.jpg
+/home/deep/coco_dataset/ANNOTATION//frame266.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1565.jpg
+/home/deep/coco_dataset/ANNOTATION//frame598.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1449.jpg
+/home/deep/coco_dataset/ANNOTATION//frame525.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (539).jpg
+/home/deep/coco_dataset/ANNOTATION//s (61).jpg
+/home/deep/coco_dataset/ANNOTATION//frame989.jpg
+/home/deep/coco_dataset/ANNOTATION//frame502.jpg
+/home/deep/coco_dataset/ANNOTATION//s (34).jpg
+/home/deep/coco_dataset/ANNOTATION//w (1).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(21).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(58).jpg
+/home/deep/coco_dataset/ANNOTATION//frame695.jpg
+/home/deep/coco_dataset/ANNOTATION//frame398.jpg
+/home/deep/coco_dataset/ANNOTATION//s (160).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (448).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (38).jpg
+/home/deep/coco_dataset/ANNOTATION//frame871.jpg
+/home/deep/coco_dataset/ANNOTATION//frame863.jpg
+/home/deep/coco_dataset/ANNOTATION//s (236).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (116).jpg
+/home/deep/coco_dataset/ANNOTATION//frame124.jpg
+/home/deep/coco_dataset/ANNOTATION//p12.jpg
+/home/deep/coco_dataset/ANNOTATION//frame204.jpg
+/home/deep/coco_dataset/ANNOTATION//145.jpg
+/home/deep/coco_dataset/ANNOTATION//s (152).jpg
+/home/deep/coco_dataset/ANNOTATION//frame511.jpg
+/home/deep/coco_dataset/ANNOTATION//per (139).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1648.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (488).jpg
+/home/deep/coco_dataset/ANNOTATION//frame662.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (273).jpg
+/home/deep/coco_dataset/ANNOTATION//frame943.jpg
+/home/deep/coco_dataset/ANNOTATION//frame385.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (315).jpg
+/home/deep/coco_dataset/ANNOTATION//s (176).jpg
+/home/deep/coco_dataset/ANNOTATION//frame153.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1519.jpg
+/home/deep/coco_dataset/ANNOTATION//person (129).jpg
+/home/deep/coco_dataset/ANNOTATION//frame483.jpg
+/home/deep/coco_dataset/ANNOTATION//s (285).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(65).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (57).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (133).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1416.jpg
+/home/deep/coco_dataset/ANNOTATION//s (91).jpg
+/home/deep/coco_dataset/ANNOTATION//s (272).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (466).jpg
+/home/deep/coco_dataset/ANNOTATION//in (83).jpg
+/home/deep/coco_dataset/ANNOTATION//s (313).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1679.jpg
+/home/deep/coco_dataset/ANNOTATION//frame399.jpg
+/home/deep/coco_dataset/ANNOTATION//s (11).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (99).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(100).jpg
+/home/deep/coco_dataset/ANNOTATION//frame572.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (391).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (562).jpg
+/home/deep/coco_dataset/ANNOTATION//frame356.jpg
+/home/deep/coco_dataset/ANNOTATION//frame469.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (406).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (53).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (295).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (7).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (11).jpg
+/home/deep/coco_dataset/ANNOTATION//frame966.jpg
+/home/deep/coco_dataset/ANNOTATION//frame533.jpg
+/home/deep/coco_dataset/ANNOTATION//in (17).jpg
+/home/deep/coco_dataset/ANNOTATION//119.jpg
+/home/deep/coco_dataset/ANNOTATION//frame519.jpg
+/home/deep/coco_dataset/ANNOTATION//frame838.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (238).jpg
+/home/deep/coco_dataset/ANNOTATION//frame522.jpg
+/home/deep/coco_dataset/ANNOTATION//frame657.jpg
+/home/deep/coco_dataset/ANNOTATION//frame694.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (233).jpg
+/home/deep/coco_dataset/ANNOTATION//per (199).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1262.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(163).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (90).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (3).jpg
+/home/deep/coco_dataset/ANNOTATION//frame980.jpg
+/home/deep/coco_dataset/ANNOTATION//frame951.jpg
+/home/deep/coco_dataset/ANNOTATION//frame954.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (599).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (508).jpg
+/home/deep/coco_dataset/ANNOTATION//per (100).jpg
+/home/deep/coco_dataset/ANNOTATION//per (112).jpg
+/home/deep/coco_dataset/ANNOTATION//s (287).jpg
+/home/deep/coco_dataset/ANNOTATION//w (9).jpg
+/home/deep/coco_dataset/ANNOTATION//frame565.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1401.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (27).jpg
+/home/deep/coco_dataset/ANNOTATION//frame536.jpg
+/home/deep/coco_dataset/ANNOTATION//frame716.jpg
+/home/deep/coco_dataset/ANNOTATION//frame11.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1609.jpg
+/home/deep/coco_dataset/ANNOTATION//frame4.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (65).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (637).jpg
+/home/deep/coco_dataset/ANNOTATION//s (266).jpg
+/home/deep/coco_dataset/ANNOTATION//person (136).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (371).jpg
+/home/deep/coco_dataset/ANNOTATION//frame470.jpg
+/home/deep/coco_dataset/ANNOTATION//frame449.jpg
+/home/deep/coco_dataset/ANNOTATION//frame683.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1243.jpg
+/home/deep/coco_dataset/ANNOTATION//in (22).jpg
+/home/deep/coco_dataset/ANNOTATION//181.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(64).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (9).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (192).jpg
+/home/deep/coco_dataset/ANNOTATION//person (202).jpg
+/home/deep/coco_dataset/ANNOTATION//s (251).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1335.jpg
+/home/deep/coco_dataset/ANNOTATION//in (65).jpg
+/home/deep/coco_dataset/ANNOTATION//per (75).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (23).jpg
+/home/deep/coco_dataset/ANNOTATION//frame132.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (65).jpg
+/home/deep/coco_dataset/ANNOTATION//frame868.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1264.jpg
+/home/deep/coco_dataset/ANNOTATION//frame304.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (271).jpg
+/home/deep/coco_dataset/ANNOTATION//person (83).jpg
+/home/deep/coco_dataset/ANNOTATION//per (81).jpg
+/home/deep/coco_dataset/ANNOTATION//frame861.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (485).jpg
+/home/deep/coco_dataset/ANNOTATION//frame644.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (40).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (647).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (93).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1654.jpg
+/home/deep/coco_dataset/ANNOTATION//s (146).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (97).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (504).jpg
+/home/deep/coco_dataset/ANNOTATION//w (8).jpg
+/home/deep/coco_dataset/ANNOTATION//frame32.jpg
+/home/deep/coco_dataset/ANNOTATION//frame365.jpg
+/home/deep/coco_dataset/ANNOTATION//person (81).jpg
+/home/deep/coco_dataset/ANNOTATION//s (151).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1023.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (71).jpg
+/home/deep/coco_dataset/ANNOTATION//per (17).jpg
+/home/deep/coco_dataset/ANNOTATION//in (68).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (95).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1309.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1389.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1006.jpg
+/home/deep/coco_dataset/ANNOTATION//per (91).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (254).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (367).jpg
+/home/deep/coco_dataset/ANNOTATION//frame419.jpg
+/home/deep/coco_dataset/ANNOTATION//frame709.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1102.jpg
+/home/deep/coco_dataset/ANNOTATION//person (232).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (71).jpg
+/home/deep/coco_dataset/ANNOTATION//frame361.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (629).jpg
+/home/deep/coco_dataset/ANNOTATION//a (45).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1072.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (293).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (136).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (313).jpg
+/home/deep/coco_dataset/ANNOTATION//frame118.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1133.jpg
+/home/deep/coco_dataset/ANNOTATION//per (196).jpg
+/home/deep/coco_dataset/ANNOTATION//92.jpg
+/home/deep/coco_dataset/ANNOTATION//frame758.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1111.jpg
+/home/deep/coco_dataset/ANNOTATION//s (23).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1650.jpg
+/home/deep/coco_dataset/ANNOTATION//frame261.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1711.jpg
+/home/deep/coco_dataset/ANNOTATION//frame975.jpg
+/home/deep/coco_dataset/ANNOTATION//s (110).jpg
+/home/deep/coco_dataset/ANNOTATION//frame43.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (328).jpg
+/home/deep/coco_dataset/ANNOTATION//s (207).jpg
+/home/deep/coco_dataset/ANNOTATION//per (118).jpg
+/home/deep/coco_dataset/ANNOTATION//s (185).jpg
+/home/deep/coco_dataset/ANNOTATION//frame949.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1672.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (197).jpg
+/home/deep/coco_dataset/ANNOTATION//frame345.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (1).jpg
+/home/deep/coco_dataset/ANNOTATION//w (28).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (62).jpg
+/home/deep/coco_dataset/ANNOTATION//frame305.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1533.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(66).jpg
+/home/deep/coco_dataset/ANNOTATION//per (83).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (261).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (60).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1468.jpg
+/home/deep/coco_dataset/ANNOTATION//a (44).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (430).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (40).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (16).jpg
+/home/deep/coco_dataset/ANNOTATION//frame424.jpg
+/home/deep/coco_dataset/ANNOTATION//s (267).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (221).jpg
+/home/deep/coco_dataset/ANNOTATION//frame728.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1472.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1169.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (3).jpg
+/home/deep/coco_dataset/ANNOTATION//frame931.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (29).jpg
+/home/deep/coco_dataset/ANNOTATION//per (94).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (569).jpg
+/home/deep/coco_dataset/ANNOTATION//per (66).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(133).jpg
+/home/deep/coco_dataset/ANNOTATION//frame293.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (581).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (557).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (213).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (602).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (266).jpg
+/home/deep/coco_dataset/ANNOTATION//frame434.jpg
+/home/deep/coco_dataset/ANNOTATION//s (173).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (179).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (534).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1042.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (212).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (283).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(14).jpg
+/home/deep/coco_dataset/ANNOTATION//frame273.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1256.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (318).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (317).jpg
+/home/deep/coco_dataset/ANNOTATION//a (13).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(18).jpg
+/home/deep/coco_dataset/ANNOTATION//a (23).jpg
+/home/deep/coco_dataset/ANNOTATION//w (39).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (435).jpg
+/home/deep/coco_dataset/ANNOTATION//frame278.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1301.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (34).jpg
+/home/deep/coco_dataset/ANNOTATION//w (43).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (321).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (211).jpg
+/home/deep/coco_dataset/ANNOTATION//in (14).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (653).jpg
+/home/deep/coco_dataset/ANNOTATION//201.jpg
+/home/deep/coco_dataset/ANNOTATION//188.jpg
+/home/deep/coco_dataset/ANNOTATION//frame563.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (54).jpg
+/home/deep/coco_dataset/ANNOTATION//frame770.jpg
+/home/deep/coco_dataset/ANNOTATION//frame759.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (509).jpg
+/home/deep/coco_dataset/ANNOTATION//50.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (395).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1667.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1047.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1550.jpg
+/home/deep/coco_dataset/ANNOTATION//a (37).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (101).jpg
+/home/deep/coco_dataset/ANNOTATION//per (167).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (113).jpg
+/home/deep/coco_dataset/ANNOTATION//in (34).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1715.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1629.jpg
+/home/deep/coco_dataset/ANNOTATION//person (36).jpg
+/home/deep/coco_dataset/ANNOTATION//person (165).jpg
+/home/deep/coco_dataset/ANNOTATION//s (205).jpg
+/home/deep/coco_dataset/ANNOTATION//frame408.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (91).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (77).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1524.jpg
+/home/deep/coco_dataset/ANNOTATION//frame927.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (21).jpg
+/home/deep/coco_dataset/ANNOTATION//frame744.jpg
+/home/deep/coco_dataset/ANNOTATION//s (263).jpg
+/home/deep/coco_dataset/ANNOTATION//per (116).jpg
+/home/deep/coco_dataset/ANNOTATION//s (69).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (567).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (41).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1110.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1189.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (516).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1735.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (423).jpg
+/home/deep/coco_dataset/ANNOTATION//person (200).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1614.jpg
+/home/deep/coco_dataset/ANNOTATION//person (174).jpg
+/home/deep/coco_dataset/ANNOTATION//frame556.jpg
+/home/deep/coco_dataset/ANNOTATION//frame474.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (142).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1181.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (7).jpg
+/home/deep/coco_dataset/ANNOTATION//frame842.jpg
+/home/deep/coco_dataset/ANNOTATION//frame410.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1347.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(47).jpg
+/home/deep/coco_dataset/ANNOTATION//s (264).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1486.jpg
+/home/deep/coco_dataset/ANNOTATION//in (84).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1641.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1464.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1591.jpg
+/home/deep/coco_dataset/ANNOTATION//frame625.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1656.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1737.jpg
+/home/deep/coco_dataset/ANNOTATION//s (227).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (24).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (377).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (169).jpg
+/home/deep/coco_dataset/ANNOTATION//person (80).jpg
+/home/deep/coco_dataset/ANNOTATION//in (2).jpg
+/home/deep/coco_dataset/ANNOTATION//frame960.jpg
+/home/deep/coco_dataset/ANNOTATION//frame222.jpg
+/home/deep/coco_dataset/ANNOTATION//person (170).jpg
+/home/deep/coco_dataset/ANNOTATION//frame80.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1454.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1443.jpg
+/home/deep/coco_dataset/ANNOTATION//frame880.jpg
+/home/deep/coco_dataset/ANNOTATION//in (82).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (618).jpg
+/home/deep/coco_dataset/ANNOTATION//frame373.jpg
+/home/deep/coco_dataset/ANNOTATION//s (280).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (127).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1657.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (8).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (42).jpg
+/home/deep/coco_dataset/ANNOTATION//frame793.jpg
+/home/deep/coco_dataset/ANNOTATION//frame843.jpg
+/home/deep/coco_dataset/ANNOTATION//per (135).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (32).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (297).jpg
+/home/deep/coco_dataset/ANNOTATION//in (6).jpg
+/home/deep/coco_dataset/ANNOTATION//82.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1322.jpg
+/home/deep/coco_dataset/ANNOTATION//frame376.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1086.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1704.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1043.jpg
+/home/deep/coco_dataset/ANNOTATION//s (180).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (11).jpg
+/home/deep/coco_dataset/ANNOTATION//per (69).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1074.jpg
+/home/deep/coco_dataset/ANNOTATION//person (242).jpg
+/home/deep/coco_dataset/ANNOTATION//109.jpg
+/home/deep/coco_dataset/ANNOTATION//frame516.jpg
+/home/deep/coco_dataset/ANNOTATION//person (29).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(67).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1001.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (340).jpg
+/home/deep/coco_dataset/ANNOTATION//137.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1507.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1134.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (592).jpg
+/home/deep/coco_dataset/ANNOTATION//in (70).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1277.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1430.jpg
+/home/deep/coco_dataset/ANNOTATION//per (30).jpg
+/home/deep/coco_dataset/ANNOTATION//person (198).jpg
+/home/deep/coco_dataset/ANNOTATION//per (110).jpg
+/home/deep/coco_dataset/ANNOTATION//frame208.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1444.jpg
+/home/deep/coco_dataset/ANNOTATION//frame905.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (455).jpg
+/home/deep/coco_dataset/ANNOTATION//per (11).jpg
+/home/deep/coco_dataset/ANNOTATION//per (85).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(24).jpg
+/home/deep/coco_dataset/ANNOTATION//frame145.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (630).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1280.jpg
+/home/deep/coco_dataset/ANNOTATION//in (15).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1324.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (434).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1362.jpg
+/home/deep/coco_dataset/ANNOTATION//frame938.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (2).jpg
+/home/deep/coco_dataset/ANNOTATION//frame557.jpg
+/home/deep/coco_dataset/ANNOTATION//per (90).jpg
+/home/deep/coco_dataset/ANNOTATION//person (210).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (441).jpg
+/home/deep/coco_dataset/ANNOTATION//per (133).jpg
+/home/deep/coco_dataset/ANNOTATION//s (249).jpg
+/home/deep/coco_dataset/ANNOTATION//frame568.jpg
+/home/deep/coco_dataset/ANNOTATION//in (24).jpg
+/home/deep/coco_dataset/ANNOTATION//in (37).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1607.jpg
+/home/deep/coco_dataset/ANNOTATION//person (96).jpg
+/home/deep/coco_dataset/ANNOTATION//frame182.jpg
+/home/deep/coco_dataset/ANNOTATION//frame710.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (81).jpg
+/home/deep/coco_dataset/ANNOTATION//in (50).jpg
+/home/deep/coco_dataset/ANNOTATION//per (105).jpg
+/home/deep/coco_dataset/ANNOTATION//frame748.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (429).jpg
+/home/deep/coco_dataset/ANNOTATION//frame480.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1701.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (6).jpg
+/home/deep/coco_dataset/ANNOTATION//s (68).jpg
+/home/deep/coco_dataset/ANNOTATION//frame264.jpg
+/home/deep/coco_dataset/ANNOTATION//per (54).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (78).jpg
+/home/deep/coco_dataset/ANNOTATION//frame521.jpg
+/home/deep/coco_dataset/ANNOTATION//frame359.jpg
+/home/deep/coco_dataset/ANNOTATION//frame933.jpg
+/home/deep/coco_dataset/ANNOTATION//per (88).jpg
+/home/deep/coco_dataset/ANNOTATION//frame21.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (43).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(161).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1212.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1631.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (78).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (45).jpg
+/home/deep/coco_dataset/ANNOTATION//frame537.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (69).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1508.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (670).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(42).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (10).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1338.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1085.jpg
+/home/deep/coco_dataset/ANNOTATION//per (78).jpg
+/home/deep/coco_dataset/ANNOTATION//person (159).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (336).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (399).jpg
+/home/deep/coco_dataset/ANNOTATION//frame630.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1184.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (139).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (70).jpg
+/home/deep/coco_dataset/ANNOTATION//s (28).jpg
+/home/deep/coco_dataset/ANNOTATION//person (105).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (660).jpg
+/home/deep/coco_dataset/ANNOTATION//frame413.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (79).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (25).jpg
+/home/deep/coco_dataset/ANNOTATION//per (131).jpg
+/home/deep/coco_dataset/ANNOTATION//frame443.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1286.jpg
+/home/deep/coco_dataset/ANNOTATION//frame407.jpg
+/home/deep/coco_dataset/ANNOTATION//frame34.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (370).jpg
+/home/deep/coco_dataset/ANNOTATION//per (59).jpg
+/home/deep/coco_dataset/ANNOTATION//s (305).jpg
+/home/deep/coco_dataset/ANNOTATION//frame259.jpg
+/home/deep/coco_dataset/ANNOTATION//s (289).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (368).jpg
+/home/deep/coco_dataset/ANNOTATION//141.jpg
+/home/deep/coco_dataset/ANNOTATION//frame100.jpg
+/home/deep/coco_dataset/ANNOTATION//frame184.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1202.jpg
+/home/deep/coco_dataset/ANNOTATION//frame507.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (505).jpg
+/home/deep/coco_dataset/ANNOTATION//frame357.jpg
+/home/deep/coco_dataset/ANNOTATION//frame906.jpg
+/home/deep/coco_dataset/ANNOTATION//per (96).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (291).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1649.jpg
+/home/deep/coco_dataset/ANNOTATION//frame490.jpg
+/home/deep/coco_dataset/ANNOTATION//s (92).jpg
+/home/deep/coco_dataset/ANNOTATION//frame605.jpg
+/home/deep/coco_dataset/ANNOTATION//per (53).jpg
+/home/deep/coco_dataset/ANNOTATION//frame566.jpg
+/home/deep/coco_dataset/ANNOTATION//per (9).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (366).jpg
+/home/deep/coco_dataset/ANNOTATION//per (186).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1376.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (163).jpg
+/home/deep/coco_dataset/ANNOTATION//s (101).jpg
+/home/deep/coco_dataset/ANNOTATION//frame590.jpg
+/home/deep/coco_dataset/ANNOTATION//179.jpg
+/home/deep/coco_dataset/ANNOTATION//frame244.jpg
+/home/deep/coco_dataset/ANNOTATION//frame389.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1535.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1121.jpg
+/home/deep/coco_dataset/ANNOTATION//s (132).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (89).jpg
+/home/deep/coco_dataset/ANNOTATION//a (29).jpg
+/home/deep/coco_dataset/ANNOTATION//in (78).jpg
+/home/deep/coco_dataset/ANNOTATION//person (123).jpg
+/home/deep/coco_dataset/ANNOTATION//frame737.jpg
+/home/deep/coco_dataset/ANNOTATION//per (130).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1017.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1626.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(140).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (276).jpg
+/home/deep/coco_dataset/ANNOTATION//w (38).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (537).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(153).jpg
+/home/deep/coco_dataset/ANNOTATION//frame288.jpg
+/home/deep/coco_dataset/ANNOTATION//frame992.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1242.jpg
+/home/deep/coco_dataset/ANNOTATION//person (167).jpg
+/home/deep/coco_dataset/ANNOTATION//per (108).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (181).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (314).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (407).jpg
+/home/deep/coco_dataset/ANNOTATION//frame251.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (73).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (541).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1662.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1688.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1628.jpg
+/home/deep/coco_dataset/ANNOTATION//per (99).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1087.jpg
+/home/deep/coco_dataset/ANNOTATION//frame702.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1166.jpg
+/home/deep/coco_dataset/ANNOTATION//frame458.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (75).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1511.jpg
+/home/deep/coco_dataset/ANNOTATION//frame104.jpg
+/home/deep/coco_dataset/ANNOTATION//frame164.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (288).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1673.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (39).jpg
+/home/deep/coco_dataset/ANNOTATION//frame881.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (88).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(19).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(23).jpg
+/home/deep/coco_dataset/ANNOTATION//frame649.jpg
+/home/deep/coco_dataset/ANNOTATION//person (179).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (284).jpg
+/home/deep/coco_dataset/ANNOTATION//frame87.jpg
+/home/deep/coco_dataset/ANNOTATION//frame648.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (77).jpg
+/home/deep/coco_dataset/ANNOTATION//frame494.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1399.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1351.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (563).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1269.jpg
+/home/deep/coco_dataset/ANNOTATION//in (72).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (305).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1238.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (44).jpg
+/home/deep/coco_dataset/ANNOTATION//s (228).jpg
+/home/deep/coco_dataset/ANNOTATION//234.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (517).jpg
+/home/deep/coco_dataset/ANNOTATION//260.jpg
+/home/deep/coco_dataset/ANNOTATION//frame252.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1525.jpg
+/home/deep/coco_dataset/ANNOTATION//frame697.jpg
+/home/deep/coco_dataset/ANNOTATION//per (151).jpg
+/home/deep/coco_dataset/ANNOTATION//frame766.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1260.jpg
+/home/deep/coco_dataset/ANNOTATION//frame833.jpg
+/home/deep/coco_dataset/ANNOTATION//per (40).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1141.jpg
+/home/deep/coco_dataset/ANNOTATION//s (77).jpg
+/home/deep/coco_dataset/ANNOTATION//in (61).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1728.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1315.jpg
+/home/deep/coco_dataset/ANNOTATION//frame296.jpg
+/home/deep/coco_dataset/ANNOTATION//s (164).jpg
+/home/deep/coco_dataset/ANNOTATION//frame775.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (19).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (44).jpg
+/home/deep/coco_dataset/ANNOTATION//per (104).jpg
+/home/deep/coco_dataset/ANNOTATION//per (12).jpg
+/home/deep/coco_dataset/ANNOTATION//s (95).jpg
+/home/deep/coco_dataset/ANNOTATION//frame37.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (87).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(170).jpg
+/home/deep/coco_dataset/ANNOTATION//frame179.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1561.jpg
+/home/deep/coco_dataset/ANNOTATION//s (259).jpg
+/home/deep/coco_dataset/ANNOTATION//person (91).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (23).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (646).jpg
+/home/deep/coco_dataset/ANNOTATION//frame447.jpg
+/home/deep/coco_dataset/ANNOTATION//person (135).jpg
+/home/deep/coco_dataset/ANNOTATION//s (119).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (515).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1064.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (51).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (302).jpg
+/home/deep/coco_dataset/ANNOTATION//per (36).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1112.jpg
+/home/deep/coco_dataset/ANNOTATION//person (197).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (365).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (72).jpg
+/home/deep/coco_dataset/ANNOTATION//frame20.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1729.jpg
+/home/deep/coco_dataset/ANNOTATION//a (3).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (392).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1021.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1355.jpg
+/home/deep/coco_dataset/ANNOTATION//s (293).jpg
+/home/deep/coco_dataset/ANNOTATION//s (256).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (279).jpg
+/home/deep/coco_dataset/ANNOTATION//s (184).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1200.jpg
+/home/deep/coco_dataset/ANNOTATION//frame35.jpg
+/home/deep/coco_dataset/ANNOTATION//a (56).jpg
+/home/deep/coco_dataset/ANNOTATION//in (89).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (50).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (140).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (218).jpg
+/home/deep/coco_dataset/ANNOTATION//per (65).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (560).jpg
+/home/deep/coco_dataset/ANNOTATION//220.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1101.jpg
+/home/deep/coco_dataset/ANNOTATION//frame384.jpg
+/home/deep/coco_dataset/ANNOTATION//frame509.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (292).jpg
+/home/deep/coco_dataset/ANNOTATION//frame912.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (51).jpg
+/home/deep/coco_dataset/ANNOTATION//frame126.jpg
+/home/deep/coco_dataset/ANNOTATION//frame349.jpg
+/home/deep/coco_dataset/ANNOTATION//frame352.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (28).jpg
+/home/deep/coco_dataset/ANNOTATION//s (159).jpg
+/home/deep/coco_dataset/ANNOTATION//frame813.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1473.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(169).jpg
+/home/deep/coco_dataset/ANNOTATION//s (15).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (334).jpg
+/home/deep/coco_dataset/ANNOTATION//person (6).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (26).jpg
+/home/deep/coco_dataset/ANNOTATION//per (7).jpg
+/home/deep/coco_dataset/ANNOTATION//in (80).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1543.jpg
+/home/deep/coco_dataset/ANNOTATION//a (38).jpg
+/home/deep/coco_dataset/ANNOTATION//frame227.jpg
+/home/deep/coco_dataset/ANNOTATION//person (134).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1398.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1558.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1634.jpg
+/home/deep/coco_dataset/ANNOTATION//s (162).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (30).jpg
+/home/deep/coco_dataset/ANNOTATION//frame287.jpg
+/home/deep/coco_dataset/ANNOTATION//s (54).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1692.jpg
+/home/deep/coco_dataset/ANNOTATION//frame81.jpg
+/home/deep/coco_dataset/ANNOTATION//s (300).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1059.jpg
+/home/deep/coco_dataset/ANNOTATION//frame877.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1510.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (154).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(96).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1193.jpg
+/home/deep/coco_dataset/ANNOTATION//frame847.jpg
+/home/deep/coco_dataset/ANNOTATION//frame148.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1422.jpg
+/home/deep/coco_dataset/ANNOTATION//frame150.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (595).jpg
+/home/deep/coco_dataset/ANNOTATION//frame257.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1049.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1257.jpg
+/home/deep/coco_dataset/ANNOTATION//person (5).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1627.jpg
+/home/deep/coco_dataset/ANNOTATION//s (156).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1036.jpg
+/home/deep/coco_dataset/ANNOTATION//frame606.jpg
+/home/deep/coco_dataset/ANNOTATION//per (1).jpg
+/home/deep/coco_dataset/ANNOTATION//frame684.jpg
+/home/deep/coco_dataset/ANNOTATION//s (53).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (17).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1104.jpg
+/home/deep/coco_dataset/ANNOTATION//frame156.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1589.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(68).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1314.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (95).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (84).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1325.jpg
+/home/deep/coco_dataset/ANNOTATION//per (141).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (443).jpg
+/home/deep/coco_dataset/ANNOTATION//120.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1680.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (20).jpg
+/home/deep/coco_dataset/ANNOTATION//per (122).jpg
+/home/deep/coco_dataset/ANNOTATION//frame740.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (58).jpg
+/home/deep/coco_dataset/ANNOTATION//in (11).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1734.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (473).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (135).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (383).jpg
+/home/deep/coco_dataset/ANNOTATION//s (126).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1529.jpg
+/home/deep/coco_dataset/ANNOTATION//per (190).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(41).jpg
+/home/deep/coco_dataset/ANNOTATION//s (134).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1415.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1117.jpg
+/home/deep/coco_dataset/ANNOTATION//frame626.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1206.jpg
+/home/deep/coco_dataset/ANNOTATION//a (20).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (31).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (339).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (387).jpg
+/home/deep/coco_dataset/ANNOTATION//frame671.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1140.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (62).jpg
+/home/deep/coco_dataset/ANNOTATION//frame653.jpg
+/home/deep/coco_dataset/ANNOTATION//frame596.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (58).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (59).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1381.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (32).jpg
+/home/deep/coco_dataset/ANNOTATION//frame664.jpg
+/home/deep/coco_dataset/ANNOTATION//in (55).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(126).jpg
+/home/deep/coco_dataset/ANNOTATION//per (93).jpg
+/home/deep/coco_dataset/ANNOTATION//person (130).jpg
+/home/deep/coco_dataset/ANNOTATION//frame970.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1421.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1005.jpg
+/home/deep/coco_dataset/ANNOTATION//frame968.jpg
+/home/deep/coco_dataset/ANNOTATION//frame309.jpg
+/home/deep/coco_dataset/ANNOTATION//frame668.jpg
+/home/deep/coco_dataset/ANNOTATION//person (180).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1675.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(99).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (46).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (373).jpg
+/home/deep/coco_dataset/ANNOTATION//in (58).jpg
+/home/deep/coco_dataset/ANNOTATION//frame604.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (12).jpg
+/home/deep/coco_dataset/ANNOTATION//frame872.jpg
+/home/deep/coco_dataset/ANNOTATION//frame44.jpg
+/home/deep/coco_dataset/ANNOTATION//192.jpg
+/home/deep/coco_dataset/ANNOTATION//frame719.jpg
+/home/deep/coco_dataset/ANNOTATION//frame247.jpg
+/home/deep/coco_dataset/ANNOTATION//person (248).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1447.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1717.jpg
+/home/deep/coco_dataset/ANNOTATION//s (262).jpg
+/home/deep/coco_dataset/ANNOTATION//frame981.jpg
+/home/deep/coco_dataset/ANNOTATION//frame181.jpg
+/home/deep/coco_dataset/ANNOTATION//per (185).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1367.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (33).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1307.jpg
+/home/deep/coco_dataset/ANNOTATION//frame817.jpg
+/home/deep/coco_dataset/ANNOTATION//frame733.jpg
+/home/deep/coco_dataset/ANNOTATION//frame468.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(108).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1146.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1008.jpg
+/home/deep/coco_dataset/ANNOTATION//p11.jpg
+/home/deep/coco_dataset/ANNOTATION//person (245).jpg
+/home/deep/coco_dataset/ANNOTATION//person (172).jpg
+/home/deep/coco_dataset/ANNOTATION//person (173).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (556).jpg
+/home/deep/coco_dataset/ANNOTATION//per (127).jpg
+/home/deep/coco_dataset/ANNOTATION//person (226).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1099.jpg
+/home/deep/coco_dataset/ANNOTATION//s (25).jpg
+/home/deep/coco_dataset/ANNOTATION//frame280.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (269).jpg
+/home/deep/coco_dataset/ANNOTATION//frame765.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (24).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1225.jpg
+/home/deep/coco_dataset/ANNOTATION//a (10).jpg
+/home/deep/coco_dataset/ANNOTATION//frame689.jpg
+/home/deep/coco_dataset/ANNOTATION//frame326.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (527).jpg
+/home/deep/coco_dataset/ANNOTATION//person (43).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1407.jpg
+/home/deep/coco_dataset/ANNOTATION//s (50).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1375.jpg
+/home/deep/coco_dataset/ANNOTATION//person (68).jpg
+/home/deep/coco_dataset/ANNOTATION//frame895.jpg
+/home/deep/coco_dataset/ANNOTATION//person (186).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (449).jpg
+/home/deep/coco_dataset/ANNOTATION//frame8.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (39).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1014.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (310).jpg
+/home/deep/coco_dataset/ANNOTATION//a (28).jpg
+/home/deep/coco_dataset/ANNOTATION//in (77).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1035.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (656).jpg
+/home/deep/coco_dataset/ANNOTATION//frame869.jpg
+/home/deep/coco_dataset/ANNOTATION//frame214.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1211.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (149).jpg
+/home/deep/coco_dataset/ANNOTATION//person (46).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (78).jpg
+/home/deep/coco_dataset/ANNOTATION//s (75).jpg
+/home/deep/coco_dataset/ANNOTATION//frame496.jpg
+/home/deep/coco_dataset/ANNOTATION//frame942.jpg
+/home/deep/coco_dataset/ANNOTATION//frame792.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (120).jpg
+/home/deep/coco_dataset/ANNOTATION//frame627.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(148).jpg
+/home/deep/coco_dataset/ANNOTATION//frame149.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (190).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1714.jpg
+/home/deep/coco_dataset/ANNOTATION//frame677.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (180).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1182.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1199.jpg
+/home/deep/coco_dataset/ANNOTATION//frame457.jpg
+/home/deep/coco_dataset/ANNOTATION//person (152).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (32).jpg
+/home/deep/coco_dataset/ANNOTATION//person (209).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (550).jpg
+/home/deep/coco_dataset/ANNOTATION//frame377.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (440).jpg
+/home/deep/coco_dataset/ANNOTATION//frame57.jpg
+/home/deep/coco_dataset/ANNOTATION//per (146).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1155.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(34).jpg
+/home/deep/coco_dataset/ANNOTATION//s (52).jpg
+/home/deep/coco_dataset/ANNOTATION//frame693.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (205).jpg
+/home/deep/coco_dataset/ANNOTATION//s (48).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (402).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (8).jpg
+/home/deep/coco_dataset/ANNOTATION//person (54).jpg
+/home/deep/coco_dataset/ANNOTATION//frame965.jpg
+/home/deep/coco_dataset/ANNOTATION//frame379.jpg
+/home/deep/coco_dataset/ANNOTATION//71.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (152).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (342).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1220.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1733.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (223).jpg
+/home/deep/coco_dataset/ANNOTATION//frame934.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (501).jpg
+/home/deep/coco_dataset/ANNOTATION//s (136).jpg
+/home/deep/coco_dataset/ANNOTATION//s (35).jpg
+/home/deep/coco_dataset/ANNOTATION//frame479.jpg
+/home/deep/coco_dataset/ANNOTATION//in (44).jpg
+/home/deep/coco_dataset/ANNOTATION//frame141.jpg
+/home/deep/coco_dataset/ANNOTATION//frame518.jpg
+/home/deep/coco_dataset/ANNOTATION//person (52).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (652).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (444).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (457).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1617.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1349.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (82).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1130.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1186.jpg
+/home/deep/coco_dataset/ANNOTATION//s (281).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (487).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (9).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(62).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1403.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1547.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(120).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (5).jpg
+/home/deep/coco_dataset/ANNOTATION//s (178).jpg
+/home/deep/coco_dataset/ANNOTATION//frame23.jpg
+/home/deep/coco_dataset/ANNOTATION//frame183.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (450).jpg
+/home/deep/coco_dataset/ANNOTATION//per (18).jpg
+/home/deep/coco_dataset/ANNOTATION//s (195).jpg
+/home/deep/coco_dataset/ANNOTATION//per (43).jpg
+/home/deep/coco_dataset/ANNOTATION//frame99.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (427).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(75).jpg
+/home/deep/coco_dataset/ANNOTATION//frame440.jpg
+/home/deep/coco_dataset/ANNOTATION//frame431.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (59).jpg
+/home/deep/coco_dataset/ANNOTATION//frame628.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1412.jpg
+/home/deep/coco_dataset/ANNOTATION//frame203.jpg
+/home/deep/coco_dataset/ANNOTATION//per (147).jpg
+/home/deep/coco_dataset/ANNOTATION//per (29).jpg
+/home/deep/coco_dataset/ANNOTATION//frame201.jpg
+/home/deep/coco_dataset/ANNOTATION//frame777.jpg
+/home/deep/coco_dataset/ANNOTATION//frame791.jpg
+/home/deep/coco_dataset/ANNOTATION//per (150).jpg
+/home/deep/coco_dataset/ANNOTATION//s (291).jpg
+/home/deep/coco_dataset/ANNOTATION//person (100).jpg
+/home/deep/coco_dataset/ANNOTATION//s (276).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (582).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(118).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1369.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1566.jpg
+/home/deep/coco_dataset/ANNOTATION//200.jpg
+/home/deep/coco_dataset/ANNOTATION//frame455.jpg
+/home/deep/coco_dataset/ANNOTATION//a (58).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1727.jpg
+/home/deep/coco_dataset/ANNOTATION//frame151.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1721.jpg
+/home/deep/coco_dataset/ANNOTATION//in (60).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (46).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (52).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (17).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1420.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (633).jpg
+/home/deep/coco_dataset/ANNOTATION//frame236.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (77).jpg
+/home/deep/coco_dataset/ANNOTATION//w (5).jpg
+/home/deep/coco_dataset/ANNOTATION//s (299).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (36).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(151).jpg
+/home/deep/coco_dataset/ANNOTATION//s (33).jpg
+/home/deep/coco_dataset/ANNOTATION//w (11).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (519).jpg
+/home/deep/coco_dataset/ANNOTATION//frame788.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (112).jpg
+/home/deep/coco_dataset/ANNOTATION//frame406.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (244).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (186).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(116).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (605).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (453).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (559).jpg
+/home/deep/coco_dataset/ANNOTATION//frame894.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1090.jpg
+/home/deep/coco_dataset/ANNOTATION//s (96).jpg
+/home/deep/coco_dataset/ANNOTATION//person (55).jpg
+/home/deep/coco_dataset/ANNOTATION//frame875.jpg
+/home/deep/coco_dataset/ANNOTATION//frame433.jpg
+/home/deep/coco_dataset/ANNOTATION//frame828.jpg
+/home/deep/coco_dataset/ANNOTATION//frame452.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (461).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (330).jpg
+/home/deep/coco_dataset/ANNOTATION//s (139).jpg
+/home/deep/coco_dataset/ANNOTATION//frame805.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1207.jpg
+/home/deep/coco_dataset/ANNOTATION//per (89).jpg
+/home/deep/coco_dataset/ANNOTATION//per (163).jpg
+/home/deep/coco_dataset/ANNOTATION//person (177).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (640).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1283.jpg
+/home/deep/coco_dataset/ANNOTATION//frame686.jpg
+/home/deep/coco_dataset/ANNOTATION//frame935.jpg
+/home/deep/coco_dataset/ANNOTATION//frame65.jpg
+/home/deep/coco_dataset/ANNOTATION//frame670.jpg
+/home/deep/coco_dataset/ANNOTATION//person (191).jpg
+/home/deep/coco_dataset/ANNOTATION//person (13).jpg
+/home/deep/coco_dataset/ANNOTATION//frame762.jpg
+/home/deep/coco_dataset/ANNOTATION//person (196).jpg
+/home/deep/coco_dataset/ANNOTATION//frame476.jpg
+/home/deep/coco_dataset/ANNOTATION//frame238.jpg
+/home/deep/coco_dataset/ANNOTATION//frame834.jpg
+/home/deep/coco_dataset/ANNOTATION//s (155).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1138.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (561).jpg
+/home/deep/coco_dataset/ANNOTATION//person (227).jpg
+/home/deep/coco_dataset/ANNOTATION//96.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1154.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(44).jpg
+/home/deep/coco_dataset/ANNOTATION//frame197.jpg
+/home/deep/coco_dataset/ANNOTATION//person (151).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (648).jpg
+/home/deep/coco_dataset/ANNOTATION//frame375.jpg
+/home/deep/coco_dataset/ANNOTATION//person (87).jpg
+/home/deep/coco_dataset/ANNOTATION//frame887.jpg
+/home/deep/coco_dataset/ANNOTATION//frame110.jpg
+/home/deep/coco_dataset/ANNOTATION//frame922.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (645).jpg
+/home/deep/coco_dataset/ANNOTATION//frame108.jpg
+/home/deep/coco_dataset/ANNOTATION//frame428.jpg
+/home/deep/coco_dataset/ANNOTATION//frame882.jpg
+/home/deep/coco_dataset/ANNOTATION//frame512.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (119).jpg
+/home/deep/coco_dataset/ANNOTATION//frame711.jpg
+/home/deep/coco_dataset/ANNOTATION//s (226).jpg
+/home/deep/coco_dataset/ANNOTATION//per (70).jpg
+/home/deep/coco_dataset/ANNOTATION//frame806.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1282.jpg
+/home/deep/coco_dataset/ANNOTATION//frame560.jpg
+/home/deep/coco_dataset/ANNOTATION//259.jpg
+/home/deep/coco_dataset/ANNOTATION//person (27).jpg
+/home/deep/coco_dataset/ANNOTATION//person (10).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (522).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(142).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (514).jpg
+/home/deep/coco_dataset/ANNOTATION//s (245).jpg
+/home/deep/coco_dataset/ANNOTATION//frame785.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (280).jpg
+/home/deep/coco_dataset/ANNOTATION//frame135.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (604).jpg
+/home/deep/coco_dataset/ANNOTATION//frame242.jpg
+/home/deep/coco_dataset/ANNOTATION//s (47).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (390).jpg
+/home/deep/coco_dataset/ANNOTATION//frame269.jpg
+/home/deep/coco_dataset/ANNOTATION//person (212).jpg
+/home/deep/coco_dataset/ANNOTATION//frame277.jpg
+/home/deep/coco_dataset/ANNOTATION//s (282).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(72).jpg
+/home/deep/coco_dataset/ANNOTATION//frame448.jpg
+/home/deep/coco_dataset/ANNOTATION//frame918.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (267).jpg
+/home/deep/coco_dataset/ANNOTATION//frame774.jpg
+/home/deep/coco_dataset/ANNOTATION//frame888.jpg
+/home/deep/coco_dataset/ANNOTATION//s (74).jpg
+/home/deep/coco_dataset/ANNOTATION//frame883.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (74).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1428.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1425.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (188).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(76).jpg
+/home/deep/coco_dataset/ANNOTATION//frame956.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (22).jpg
+/home/deep/coco_dataset/ANNOTATION//per (192).jpg
+/home/deep/coco_dataset/ANNOTATION//frame64.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1664.jpg
+/home/deep/coco_dataset/ANNOTATION//s (137).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(158).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1162.jpg
+/home/deep/coco_dataset/ANNOTATION//person (97).jpg
+/home/deep/coco_dataset/ANNOTATION//in (76).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (67).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1045.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1676.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1642.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (335).jpg
+/home/deep/coco_dataset/ANNOTATION//frame982.jpg
+/home/deep/coco_dataset/ANNOTATION//233.jpg
+/home/deep/coco_dataset/ANNOTATION//230.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (74).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1013.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (587).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (25).jpg
+/home/deep/coco_dataset/ANNOTATION//frame488.jpg
+/home/deep/coco_dataset/ANNOTATION//frame969.jpg
+/home/deep/coco_dataset/ANNOTATION//s (210).jpg
+/home/deep/coco_dataset/ANNOTATION//frame570.jpg
+/home/deep/coco_dataset/ANNOTATION//s (125).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (664).jpg
+/home/deep/coco_dataset/ANNOTATION//s (311).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1342.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (48).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (45).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (658).jpg
+/home/deep/coco_dataset/ANNOTATION//frame412.jpg
+/home/deep/coco_dataset/ANNOTATION//s (157).jpg
+/home/deep/coco_dataset/ANNOTATION//per (114).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (523).jpg
+/home/deep/coco_dataset/ANNOTATION//in (47).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (18).jpg
+/home/deep/coco_dataset/ANNOTATION//s (224).jpg
+/home/deep/coco_dataset/ANNOTATION//frame741.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (382).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (96).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (26).jpg
+/home/deep/coco_dataset/ANNOTATION//frame187.jpg
+/home/deep/coco_dataset/ANNOTATION//frame530.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1619.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (76).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (90).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1073.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1312.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1573.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(95).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (29).jpg
+/home/deep/coco_dataset/ANNOTATION//frame879.jpg
+/home/deep/coco_dataset/ANNOTATION//s (193).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (60).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (525).jpg
+/home/deep/coco_dataset/ANNOTATION//s (62).jpg
+/home/deep/coco_dataset/ANNOTATION//frame768.jpg
+/home/deep/coco_dataset/ANNOTATION//person (230).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1244.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (160).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1391.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (13).jpg
+/home/deep/coco_dataset/ANNOTATION//38.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (252).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1635.jpg
+/home/deep/coco_dataset/ANNOTATION//s (241).jpg
+/home/deep/coco_dataset/ANNOTATION//103.jpg
+/home/deep/coco_dataset/ANNOTATION//frame159.jpg
+/home/deep/coco_dataset/ANNOTATION//s (73).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (606).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (200).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1378.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (36).jpg
+/home/deep/coco_dataset/ANNOTATION//frame212.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (21).jpg
+/home/deep/coco_dataset/ANNOTATION//frame997.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1697.jpg
+/home/deep/coco_dataset/ANNOTATION//per (73).jpg
+/home/deep/coco_dataset/ANNOTATION//s (8).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (194).jpg
+/home/deep/coco_dataset/ANNOTATION//person (117).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1655.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1197.jpg
+/home/deep/coco_dataset/ANNOTATION//frame778.jpg
+/home/deep/coco_dataset/ANNOTATION//frame347.jpg
+/home/deep/coco_dataset/ANNOTATION//per (26).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(71).jpg
+/home/deep/coco_dataset/ANNOTATION//person (70).jpg
+/home/deep/coco_dataset/ANNOTATION//person (211).jpg
+/home/deep/coco_dataset/ANNOTATION//frame112.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (74).jpg
+/home/deep/coco_dataset/ANNOTATION//s (56).jpg
+/home/deep/coco_dataset/ANNOTATION//w (13).jpg
+/home/deep/coco_dataset/ANNOTATION//person (158).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1434.jpg
+/home/deep/coco_dataset/ANNOTATION//person (218).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1062.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(171).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (14).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(141).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1377.jpg
+/home/deep/coco_dataset/ANNOTATION//frame286.jpg
+/home/deep/coco_dataset/ANNOTATION//76.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1620.jpg
+/home/deep/coco_dataset/ANNOTATION//person (183).jpg
+/home/deep/coco_dataset/ANNOTATION//frame996.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (19).jpg
+/home/deep/coco_dataset/ANNOTATION//s (42).jpg
+/home/deep/coco_dataset/ANNOTATION//s (154).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(107).jpg
+/home/deep/coco_dataset/ANNOTATION//frame256.jpg
+/home/deep/coco_dataset/ANNOTATION//frame464.jpg
+/home/deep/coco_dataset/ANNOTATION//person (194).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1139.jpg
+/home/deep/coco_dataset/ANNOTATION//s (4).jpg
+/home/deep/coco_dataset/ANNOTATION//s (85).jpg
+/home/deep/coco_dataset/ANNOTATION//39.jpg
+/home/deep/coco_dataset/ANNOTATION//person (228).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (31).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (459).jpg
+/home/deep/coco_dataset/ANNOTATION//per (84).jpg
+/home/deep/coco_dataset/ANNOTATION//frame860.jpg
+/home/deep/coco_dataset/ANNOTATION//person (240).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (29).jpg
+/home/deep/coco_dataset/ANNOTATION//frame767.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1363.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (171).jpg
+/home/deep/coco_dataset/ANNOTATION//frame634.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1233.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(17).jpg
+/home/deep/coco_dataset/ANNOTATION//s (20).jpg
+/home/deep/coco_dataset/ANNOTATION//s (314).jpg
+/home/deep/coco_dataset/ANNOTATION//w (3).jpg
+/home/deep/coco_dataset/ANNOTATION//s (106).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (56).jpg
+/home/deep/coco_dataset/ANNOTATION//frame718.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (37).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (285).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1235.jpg
+/home/deep/coco_dataset/ANNOTATION//frame46.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (157).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1691.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1478.jpg
+/home/deep/coco_dataset/ANNOTATION//per (120).jpg
+/home/deep/coco_dataset/ANNOTATION//s (65).jpg
+/home/deep/coco_dataset/ANNOTATION//frame191.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (579).jpg
+/home/deep/coco_dataset/ANNOTATION//frame914.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1544.jpg
+/home/deep/coco_dataset/ANNOTATION//per (132).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (260).jpg
+/home/deep/coco_dataset/ANNOTATION//frame98.jpg
+/home/deep/coco_dataset/ANNOTATION//191.jpg
+/home/deep/coco_dataset/ANNOTATION//frame493.jpg
+/home/deep/coco_dataset/ANNOTATION//frame471.jpg
+/home/deep/coco_dataset/ANNOTATION//frame442.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (7).jpg
+/home/deep/coco_dataset/ANNOTATION//154.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1716.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1504.jpg
+/home/deep/coco_dataset/ANNOTATION//person (59).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1009.jpg
+/home/deep/coco_dataset/ANNOTATION//253.jpg
+/home/deep/coco_dataset/ANNOTATION//s (239).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1723.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (576).jpg
+/home/deep/coco_dataset/ANNOTATION//258.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1652.jpg
+/home/deep/coco_dataset/ANNOTATION//a (48).jpg
+/home/deep/coco_dataset/ANNOTATION//frame550.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1144.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1044.jpg
+/home/deep/coco_dataset/ANNOTATION//person (95).jpg
+/home/deep/coco_dataset/ANNOTATION//person (225).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(128).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1445.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (13).jpg
+/home/deep/coco_dataset/ANNOTATION//frame614.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(69).jpg
+/home/deep/coco_dataset/ANNOTATION//s (200).jpg
+/home/deep/coco_dataset/ANNOTATION//person (57).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (609).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (75).jpg
+/home/deep/coco_dataset/ANNOTATION//s (175).jpg
+/home/deep/coco_dataset/ANNOTATION//s (202).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1132.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1505.jpg
+/home/deep/coco_dataset/ANNOTATION//per (149).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1452.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1647.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (3).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (589).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (316).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1593.jpg
+/home/deep/coco_dataset/ANNOTATION//frame139.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1157.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (177).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(117).jpg
+/home/deep/coco_dataset/ANNOTATION//frame690.jpg
+/home/deep/coco_dataset/ANNOTATION//frame945.jpg
+/home/deep/coco_dataset/ANNOTATION//99.jpg
+/home/deep/coco_dataset/ANNOTATION//frame794.jpg
+/home/deep/coco_dataset/ANNOTATION//frame504.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1300.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1344.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1710.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (350).jpg
+/home/deep/coco_dataset/ANNOTATION//frame955.jpg
+/home/deep/coco_dataset/ANNOTATION//105.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1034.jpg
+/home/deep/coco_dataset/ANNOTATION//a (57).jpg
+/home/deep/coco_dataset/ANNOTATION//person (77).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (18).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1108.jpg
+/home/deep/coco_dataset/ANNOTATION//frame864.jpg
+/home/deep/coco_dataset/ANNOTATION//frame532.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (503).jpg
+/home/deep/coco_dataset/ANNOTATION//in (28).jpg
+/home/deep/coco_dataset/ANNOTATION//frame344.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(82).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (665).jpg
+/home/deep/coco_dataset/ANNOTATION//frame96.jpg
+/home/deep/coco_dataset/ANNOTATION//frame83.jpg
+/home/deep/coco_dataset/ANNOTATION//in (1).jpg
+/home/deep/coco_dataset/ANNOTATION//frame129.jpg
+/home/deep/coco_dataset/ANNOTATION//per (168).jpg
+/home/deep/coco_dataset/ANNOTATION//114.jpg
+/home/deep/coco_dataset/ANNOTATION//w (10).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (470).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1644.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (571).jpg
+/home/deep/coco_dataset/ANNOTATION//111.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1159.jpg
+/home/deep/coco_dataset/ANNOTATION//frame216.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1564.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1261.jpg
+/home/deep/coco_dataset/ANNOTATION//person (30).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1010.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(54).jpg
+/home/deep/coco_dataset/ANNOTATION//person (72).jpg
+/home/deep/coco_dataset/ANNOTATION//person (244).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (86).jpg
+/home/deep/coco_dataset/ANNOTATION//frame382.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (125).jpg
+/home/deep/coco_dataset/ANNOTATION//per (67).jpg
+/home/deep/coco_dataset/ANNOTATION//frame531.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (654).jpg
+/home/deep/coco_dataset/ANNOTATION//frame221.jpg
+/home/deep/coco_dataset/ANNOTATION//frame495.jpg
+/home/deep/coco_dataset/ANNOTATION//frame952.jpg
+/home/deep/coco_dataset/ANNOTATION//s (275).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (437).jpg
+/home/deep/coco_dataset/ANNOTATION//s (123).jpg
+/home/deep/coco_dataset/ANNOTATION//hand (35).jpg
+/home/deep/coco_dataset/ANNOTATION//per (58).jpg
+/home/deep/coco_dataset/ANNOTATION//frame143.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1410.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1570.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (80).jpg
+/home/deep/coco_dataset/ANNOTATION//frame341.jpg
+/home/deep/coco_dataset/ANNOTATION//frame562.jpg
+/home/deep/coco_dataset/ANNOTATION//s (186).jpg
+/home/deep/coco_dataset/ANNOTATION//s (102).jpg
+/home/deep/coco_dataset/ANNOTATION//person (104).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1145.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (12).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (182).jpg
+/home/deep/coco_dataset/ANNOTATION//159.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (55).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1037.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (296).jpg
+/home/deep/coco_dataset/ANNOTATION//frame368.jpg
+/home/deep/coco_dataset/ANNOTATION//w (47).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1516.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1255.jpg
+/home/deep/coco_dataset/ANNOTATION//231.jpg
+/home/deep/coco_dataset/ANNOTATION//person (184).jpg
+/home/deep/coco_dataset/ANNOTATION//35.jpg
+/home/deep/coco_dataset/ANNOTATION//frame89.jpg
+/home/deep/coco_dataset/ANNOTATION//235.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (65).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (405).jpg
+/home/deep/coco_dataset/ANNOTATION//46.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1247.jpg
+/home/deep/coco_dataset/ANNOTATION//s (37).jpg
+/home/deep/coco_dataset/ANNOTATION//s (99).jpg
+/home/deep/coco_dataset/ANNOTATION//pic (47).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1321.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (413).jpg
+/home/deep/coco_dataset/ANNOTATION//frame528.jpg
+/home/deep/coco_dataset/ANNOTATION//s (288).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1740.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (389).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1439.jpg
+/home/deep/coco_dataset/ANNOTATION//frame857.jpg
+/home/deep/coco_dataset/ANNOTATION//person (189).jpg
+/home/deep/coco_dataset/ANNOTATION//a (52).jpg
+/home/deep/coco_dataset/ANNOTATION//insta (85).jpg
+/home/deep/coco_dataset/ANNOTATION//s (292).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(101).jpg
+/home/deep/coco_dataset/ANNOTATION//frame993.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1252.jpg
+/home/deep/coco_dataset/ANNOTATION//frame374.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1597.jpg
+/home/deep/coco_dataset/ANNOTATION//frame235.jpg
+/home/deep/coco_dataset/ANNOTATION//frame930.jpg
+/home/deep/coco_dataset/ANNOTATION//frame492.jpg
+/home/deep/coco_dataset/ANNOTATION//frame49.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (239).jpg
+/home/deep/coco_dataset/ANNOTATION//frame506.jpg
+/home/deep/coco_dataset/ANNOTATION//p_(81).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1492.jpg
+/home/deep/coco_dataset/ANNOTATION//person (190).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (204).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (641).jpg
+/home/deep/coco_dataset/ANNOTATION//frame420.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1353.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (178).jpg
+/home/deep/coco_dataset/ANNOTATION//per (195).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (555).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1549.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1580.jpg
+/home/deep/coco_dataset/ANNOTATION//frame747.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1706.jpg
+/home/deep/coco_dataset/ANNOTATION//a (54).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1395.jpg
+/home/deep/coco_dataset/ANNOTATION//s (301).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1484.jpg
+/home/deep/coco_dataset/ANNOTATION//per (136).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (480).jpg
+/home/deep/coco_dataset/ANNOTATION//frame588.jpg
+/home/deep/coco_dataset/ANNOTATION//frame654.jpg
+/home/deep/coco_dataset/ANNOTATION//frame721.jpg
+/home/deep/coco_dataset/ANNOTATION//frame896.jpg
+/home/deep/coco_dataset/ANNOTATION//s (294).jpg
+/home/deep/coco_dataset/ANNOTATION//frame105.jpg
+/home/deep/coco_dataset/ANNOTATION//a (2).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (111).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1092.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1208.jpg
+/home/deep/coco_dataset/ANNOTATION//in (36).jpg
+/home/deep/coco_dataset/ANNOTATION//frame136.jpg
+/home/deep/coco_dataset/ANNOTATION//frame47.jpg
+/home/deep/coco_dataset/ANNOTATION//frame891.jpg
+/home/deep/coco_dataset/ANNOTATION//frame944.jpg
+/home/deep/coco_dataset/ANNOTATION//s (143).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (410).jpg
+/home/deep/coco_dataset/ANNOTATION//frame320.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (655).jpg
+/home/deep/coco_dataset/ANNOTATION//w (18).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1482.jpg
+/home/deep/coco_dataset/ANNOTATION//s (150).jpg
+/home/deep/coco_dataset/ANNOTATION//frame903.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (47).jpg
+/home/deep/coco_dataset/ANNOTATION//203.jpg
+/home/deep/coco_dataset/ANNOTATION//person (79).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(86).jpg
+/home/deep/coco_dataset/ANNOTATION//frame209.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (137).jpg
+/home/deep/coco_dataset/ANNOTATION//s (135).jpg
+/home/deep/coco_dataset/ANNOTATION//frame94.jpg
+/home/deep/coco_dataset/ANNOTATION//frame91.jpg
+/home/deep/coco_dataset/ANNOTATION//frame635.jpg
+/home/deep/coco_dataset/ANNOTATION//frame579.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1.jpg
+/home/deep/coco_dataset/ANNOTATION//in (18).jpg
+/home/deep/coco_dataset/ANNOTATION//frame897.jpg
+/home/deep/coco_dataset/ANNOTATION//insta (55).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1512.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (625).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(98).jpg
+/home/deep/coco_dataset/ANNOTATION//67.jpg
+/home/deep/coco_dataset/ANNOTATION//207.jpg
+/home/deep/coco_dataset/ANNOTATION//frame40.jpg
+/home/deep/coco_dataset/ANNOTATION//frame405.jpg
+/home/deep/coco_dataset/ANNOTATION//frame331.jpg
+/home/deep/coco_dataset/ANNOTATION//pic (85).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (634).jpg
+/home/deep/coco_dataset/ANNOTATION//p_(56).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (275).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1165.jpg
+/home/deep/coco_dataset/ANNOTATION//frame432.jpg
+/home/deep/coco_dataset/ANNOTATION//a (50).jpg
+/home/deep/coco_dataset/ANNOTATION//frame342.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (353).jpg
+/home/deep/coco_dataset/ANNOTATION//238.jpg
+/home/deep/coco_dataset/ANNOTATION//person (84).jpg
+/home/deep/coco_dataset/ANNOTATION//frame462.jpg
+/home/deep/coco_dataset/ANNOTATION//s (89).jpg
+/home/deep/coco_dataset/ANNOTATION//frame90.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (617).jpg
+/home/deep/coco_dataset/ANNOTATION//in (63).jpg
+/home/deep/coco_dataset/ANNOTATION//person (250).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1029.jpg
+/home/deep/coco_dataset/ANNOTATION//148.jpg
+/home/deep/coco_dataset/ANNOTATION//frame140.jpg
+/home/deep/coco_dataset/ANNOTATION//frame270.jpg
+/home/deep/coco_dataset/ANNOTATION//frame904.jpg
+/home/deep/coco_dataset/ANNOTATION//hand (54).jpg
+/home/deep/coco_dataset/ANNOTATION//w (24).jpg
+/home/deep/coco_dataset/ANNOTATION//frame825.jpg
+/home/deep/coco_dataset/ANNOTATION//s (149).jpg
+/home/deep/coco_dataset/ANNOTATION//per (48).jpg
+/home/deep/coco_dataset/ANNOTATION//frame77.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (506).jpg
+/home/deep/coco_dataset/ANNOTATION//frame574.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1670.jpg
+/home/deep/coco_dataset/ANNOTATION//frame1456.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (24).jpg
+/home/deep/coco_dataset/ANNOTATION//frame7.jpg
+/home/deep/coco_dataset/ANNOTATION//frame858.jpg
+/home/deep/coco_dataset/ANNOTATION//frame753.jpg
+/home/deep/coco_dataset/ANNOTATION//coco (376).jpg
+/home/deep/coco_dataset/ANNOTATION//coco (110).jpg
+/home/deep/coco_dataset/ANNOTATION//frame1305.jpg
