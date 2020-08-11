@@ -13,15 +13,17 @@ There are weights-file for different cfg-files (trained for local dataset):
 
 #### Installation
 Following are the instructions to install project. 
-**cd ~/TowerSurveillance** 
-**make**
-**make install**
+```
+cd ~/TowerSurveillance
+make
+make install
+```
 
 #### Test model
 
 To test the model on single image run the command (set the varibale **imagePath** to input image name) 
 
-**python3 test.py**
+`python3 test.py`
 
 #### Train model
 
