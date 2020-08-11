@@ -25,13 +25,12 @@ To test the model on single image run the command (set the varibale **imagePath*
 
 #### Train model
 
-1. Download pre-trained weights for the convolutional layers (154 MB): http://pjreddie.com/media/files/darknet53.conv.74 and put to the directory `build\darknet\x64`
 
-2. Prepare dataset on PASCAL VOC standard
+1. Prepare dataset on PASCAL VOC standard
 
-3. Create file `obj.names` in the directory `ROOT`, with objects names - each in new line
+2. Create file `obj.names` in the directory `ROOT`, with objects names - each in new line
 
-4. Create file `obj.data` in the directory `ROOT`, containing (where **classes = number of objects**):
+3. Create file `obj.data` in the directory `ROOT`, containing (where **classes = number of objects**):
 
   ```
   classes= 2
@@ -44,6 +43,7 @@ To test the model on single image run the command (set the varibale **imagePath*
 5. Put image-files (.jpg) of your objects in the directory `build\darknet\x64\data\obj\`
 
 
+If you face any troubles in compiling files, configure Makefile according to your system configuration or just google the error.
 
 
 
