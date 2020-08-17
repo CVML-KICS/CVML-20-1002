@@ -1,8 +1,12 @@
-# Yolo-v3 based Tower Surveillance
-### (neural network for object detection)
+# Tower Surveillance through Computer Vision
+
+##Project Summary##
+
+The project aims to monitor theft activities in tower premises. Many tower companies face trouble due to stealing of important equipment from their store room usally from the closed rakcs. Unusal activities can be identified by the sequence of operations such as presence of person and some opened rack or cupboard. In this project, we have retrained yolo-v3 model to localize and identify these objects i.e person and rack open. The project is ready for deployment in any tower surveillance environment. Further modifications in this project can be made by fine tuning or retraining the model following the insrcutions provided `documentation` folder. 
+
+Number of Classes 2 : Person and Rack Open
 
 More details: http://pjreddie.com/darknet/yolo/
-
 
 
 #### Pre-trained models
@@ -12,6 +16,11 @@ There are weights-file for different cfg-files (trained for local dataset):
 * place these weights in the root folder. 
 
 #### Installation
+
+### Pre-requisits 
+1. Python3.5
+2. Opencv
+
 Following are the instructions to install project. 
 `cd ~/TowerSurveillance`
 Open Makefile
@@ -34,7 +43,7 @@ To run the model on single image run the command (set the varibale **imagePath**
 #### Train model for Tower Surveillance
 
 
-1. Dwonload Tower Surveillance dataset from https://drive.google.com/file/d/1X6plbvkq3tBAqxC31h15lhi_POoGQvK6/view?usp=sharing
+1. Download Tower Surveillance dataset from https://drive.google.com/file/d/1X6plbvkq3tBAqxC31h15lhi_POoGQvK6/view?usp=sharing
 2. Place images and corresponding annotations in folder `dataset/train` and `dataset/test`. 
 3. Create `train.txt` by using following code. 
 ```
