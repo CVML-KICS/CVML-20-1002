@@ -13,54 +13,53 @@ There are weights-file for different cfg-files (trained for local dataset):
 
 #### Installation
 Following are the instructions to install project. 
+`cd ~/TowerSurveillance`
+Open Makefile
+Set values of GPU and CUDNN to 1 or 0, 1 for using GPU and 0 for using CPU
+Set OPENCV = 1 if you want to compile with opencv 
 ```
-cd ~/TowerSurveillance
 make
 make install
 ```
 
-#### Test model
+#### Run model
 
-To test the model on single image run the command (set the varibale **imagePath** to input image name) 
+To run the model on single image run the command (set the varibale **imagePath** to input image name) 
 
 `python3 test.py`
 
-#### Train model
+#### Run executable
 
 
-1. Prepare dataset on PASCAL VOC standard
+#### Train model for Tower Surveillance
 
-2. Create file `obj.names` in the directory `ROOT`, with objects names - each in new line
 
-3. Create file `obj.data` in the directory `ROOT`, containing (where **classes = number of objects**):
-
-  ```
-  classes= 2
-  train  = train.txt
-  valid  = test.txt
-  names =  obj.names
-  backup = backup/
-  ```
-
-5. Put image-files (.jpg) of your objects in the directory `build\darknet\x64\data\obj\`
+1. Dwonload Tower Surveillance dataset from https://drive.google.com/file/d/1X6plbvkq3tBAqxC31h15lhi_POoGQvK6/view?usp=sharing
+2. Place images and corresponding annotations in folder `dataset/train` and `dataset/test`. 
+3. Create `train.txt` by using following code. 
+```
+import glob
+imgs_path = glob.glob("path/to/train/folder/*.JPG")
+file = open("train.txt", "w")
+for i in imgs_path:
+  file.write(i + "/n")
+file.close()
+```
+4. Create `test.txt` by using following code. 
+```
+import glob
+imgs_path = glob.glob("path/to/test/folder/*.JPG")
+file = open("test.txt", "w")
+for i in imgs_path:
+  file.write(i + "/n")
+file.close()
+```
+5. Modify model meffa.cfg for training instead of testing and set hyperparameters batch size, input size etc
+run 
+`python3 train.py`
 
 
 If you face any troubles in compiling files, configure Makefile according to your system configuration or just google the error.
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-    
 
 
 
