@@ -1,0 +1,6 @@
+classes= 6
+train  = yolo/train.txt
+valid  = yolo/test.txt
+names = yolo/obj.names
+backup = backup/
+
