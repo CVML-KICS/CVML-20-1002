@@ -1,5 +1,3 @@
-# CVML-1002-20
-
 # Tower Surveillance:
 
 The repo is about Automatic Tower Surveillance. Person and rack open/closed classes are targeted to monitor the security of any tower premises. 
@@ -37,3 +35,5 @@ For the detection of equipment and unauthorized persons in the tower area, Yolo 
 -	Calculate Mean Average Precision (MAP)
 -	Got 0.7% value of MAP for validation samples
 
+## Documentation
+Access the Prepared Dataset and Report from [here](https://drive.google.com/drive/folders/1cuv7h8l4FQtttLsthMg8_9sYZYdyZ68M?usp=sharing)
