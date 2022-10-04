@@ -4,7 +4,7 @@
 
 The repo is about Automatic Tower Surveillance. Person and rack open/closed classes are targeted to monitor the security of any tower premises. 
 
-# Introduction:
+## Introduction:
 
 The aim of this project is to watch equipment and detect the unauthorized person in telecommunication tower area, and alarm the authority for timely rescue.
 
@@ -37,5 +37,3 @@ For the detection of equipment and unauthorized persons in the tower area, Yolo 
 -	Calculate Mean Average Precision (MAP)
 -	Got 0.7% value of MAP for validation samples
 
-## AUTHOR CONTRIBUTIONS
-Ahmad Hassan conceived the original idea. Abdullah Tariq developed the theory and performed the computations.  Ahmad Hassan verified the analytical methods. Abdullah Tariq optimize the model for deployment. Waqas Ahmad installed all hardware equipment at tower site area.  All authors discussed the results and contributed to the final report.
